@@ -1,0 +1,53 @@
+Exercise
+type
+Examples of
+exercises
+Formulas and examples
++ 6 ft [double-wide safety cushion]) = 130 ft2
+Example 2 (metric approximations): If using a 2 m
+Olympic bar for the shoulder press exercise: DEPTH: (3 m
+[user space]) × WIDTH: (2 m [bar] + 2 m [double-wide
+safety cushion]) = 12 m2
+Weightlifting
+exercises
+Power clean;
+power snatch
+Formula (on inlaid rubber flooring): DEPTH: a
+suggested user space of 8-10 ft (2.4-3.0 m) for a
+weightlifting exercise multiplied by WIDTH: actual bar
+length (6-7 ft [1.8-2.1 m]) + a double-wide safety cushion
+of 6 ft (1.8 m)
+Formula (on an elevated wood platform): DEPTH:
+lifting platform length (typically 8 ft [2.4 m]) + a safety
+cushion of 3 ft (0.9 m) multiplied by WIDTH: lifting
+platform width (typically 8 ft [2.4 m]) + a double-wide
+safety cushion of 6 ft (1.8 m)
+Example 1 (on inlaid rubber flooring): DEPTH: (10 ft
+[user space]) × WIDTH: (7 ft [bar] + 6 ft [double-wide
+safety cushion]) = 130 ft2
+Example 2 (on an elevated wood platform; metric
+approximations):
+DEPTH: (2.5 m [platform length] + 1 m [safety cushion])
+× WIDTH: (2.5 m [platform width] + 2 m [double-wide
+safety cushion]) ≈ 16 m2
+Landmine
+exercises
+Landmine
+squat; half-
+kneeling
+landmine
+press
+Formula: The minimum space need is based on the area
+(A) of a circle (A = π × r2): The radius (r) of the circle is
+comprised of the actual bar length (5-7 ft [1.5-2.1 m]) + a
+suggested user space of 2 ft (0.6 m) for a landmine
+exercise + a safety cushion of 3 ft (0.9 m). A minimum of
+90 degrees of movement is required for the range of
+motion at the user end of the bar for a landmine exercise;
+90 degrees is one-quarter of a 360-degree circle. Thus, the
+formula is (π × [actual bar length + user space + safety
+cushion]2) divided by 4. (Use 3.14 for the value of π.)
+Example 1: If using a 7 ft Olympic bar for the landmine
+squat exercise: (π × [7 ft {bar} + 2 ft {user space} + 3 ft
+{safety cushion}]2) ÷ 4 ≈ 113 ft2
+1759

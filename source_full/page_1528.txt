@@ -1,0 +1,33 @@
+Lowest number of the athlete’s THRR = (130 × 0.60) + 60 = 78 + 60 = 138
+beats/min
+Highest number of the athlete’s THRR = (130 × 0.70) + 60 = 91 + 60 = 151
+beats/min
+Percentage of Maximal Heart Rate Method
+Formula
+Age-predicted maximum heart rate (APMHR) = 220 - age
+Target heart rate (THR) = (APMHR × exercise intensity)
+To determine the target heart rate range (THRR), calculate THR using both the
+prescribed minimum and maximum intensity values.
+Example
+A 20-year-old athlete is assigned an exercise intensity of 70% to 85% of maximal
+heart rate:
+APMHR = 220 - 20 = 200 beats/min
+Lowest number of the athlete’s THRR = 200 × 0.70 = 140 beats/min
+Highest number of the athlete’s THRR = 200 × 0.85 = 170 beats/min
+It is also important to note that environmental factors such as
+heat, humidity, and altitude place additional stresses on the body,
+affecting the cardiovascular responses to exercise (68, 117). As
+such, the acute and chronic effects of these external factors in
+elevating heart rate should be taken into account when prescribing
+and monitoring exercise intensity.
+Ratings of Perceived Exertion Scales
+Ratings of perceived exertion (RPE) scales also can be used to
+regulate and monitor intensity during aerobic endurance training.
+Evidence suggests that RPE can be used to accurately regulate
+intensity when there are changes in fitness level (29); however,
+researchers have demonstrated that the RPE–intensity relationship
+can be influenced by various external environmental factors such as
+passive distracters and environmental temperature (93, 130).
+According to Haddad, Padula, and Chamari (56), various subject
+characteristics such as age, sex, training status, and fitness level
+1528

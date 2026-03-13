@@ -1,0 +1,32 @@
+periods and against different loads has been with work and power
+(8).
+The Impulse–Momentum Relationship
+Male rugby athletes can jump between 0.37 and 0.44 meters (1.21-1.44 ft) (42).
+To jump 0.37 meters, they need to leave the ground at 2.694 m/s. Impulse (force
+× time) changes momentum (mass × velocity). Because mass does not change,
+only velocity needs to change. To do this at 95.2 kilograms (209.9 lb), they need to
+apply 256.6 newton-seconds of impulse. To do this from a propulsion phase of
+0.232 seconds means applying a force 1105.6 newtons over their body weight. To
+jump 0.44 meters (16% more), heavier rugby athletes (98.2 kg [216.5 lb]) must
+leave the ground at 2.938 m/s, which requires 288.5 newton-seconds. They
+achieve this by applying 7% less force over 17% more time.
+Positive Work and Power
+When we apply force to an object that is moving, we are performing
+work. In a biomechanical context, work can be understood in a
+simpler form as the product of force and displacement (how far
+the object moves). This is often how work is described in resistance
+training and is familiar to many athletes and strength and
+conditioning professionals.
+However, work can also be understood as the change in the
+mechanical energy of an object. Mechanical energy is the sum of
+potential energy and kinetic energy (equations 2.3 and 2.4):
+  Potential energy = m × g × h    (2.3)
+where m is mass (as described above), g is the acceleration due to
+gravity (9.81 m ∙ s−²), and h is the change in height (or position).
+This represents the energy an object has because of its position.
+  Kinetic energy = ½ m × v²    (2.4)
+where m is mass and v is velocity. This represents the energy an
+object has due to its movement.
+Together, these two forms of energy determine the total
+mechanical energy change, which is key to understanding the work
+130

@@ -1,0 +1,30 @@
+Role of Receptors in Mediating
+Hormonal Changes
+The effectiveness of hormonal signals depends entirely on the
+presence of hormone-specific receptors on or in the target cells. This
+ensures that each hormone only affects its intended cells and tissues
+(those that express the specific receptors). Such specificity is crucial
+for maintaining precise hormonal regulation within the body. Since
+many hormones cannot directly cross the cell membrane, they rely
+on binding to membrane receptors that cause secondary
+messengers to transmit signals internally, including reaching the
+DNA in the cell’s nuclei. These receptors, located either in the cell
+membrane for polypeptide hormones or within the cytosol for
+steroid and thyroid hormones, allow various cells, from muscle fibers
+to immune and brain cells, to respond to hormonal signals.
+A fundamental principle in endocrinology, often described through
+the lock-and-key model (24), explains how a hormone (the key)
+must precisely match a receptor (the lock) to trigger a response
+(figure 4.2). However, this model oversimplifies the complexity of
+hormone–receptor interactions. For example, cross-reactivity
+allows receptors to engage with hormones other than their primary
+matches, and allosteric binding can modify how a receptor
+responds to its primary hormone (such as blocking binding to the
+receptor and thus signaling). Additionally, receptors might have
+allosteric sites where nonhormonal substances can enhance or
+reduce the hormonal response. Some hormones, like GH, might even
+need to aggregate into specific forms (multiple hormones bound
+together in a “cluster”) to effectively signal through their receptors,
+as shown in studies using the tibial line assay (40), indicating that
+specific molecular configurations are essential for their activity.
+240

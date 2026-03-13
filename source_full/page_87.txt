@@ -1,0 +1,32 @@
+kilograms. This is an example for an 80 kilogram (176 pound)
+athlete:
+V̇ O2 = 281 mL O2/min ÷ 80 kg
+V̇ O2 = 3.5 mL · kg−1 · min−1
+Blood Pressure
+Systolic blood pressure estimates the pressure exerted against
+the arterial walls as blood is forcefully ejected during ventricular
+contraction (systole) and, when combined with heart rate, can be
+used to describe the myocardial oxygen consumption (work) of the
+heart. This estimate of the work of the heart is obtained according
+to the following equation and is referred to as the rate–pressure
+product, or double product:
+Rate–pressure product =     Heart rate × Systolic blood pressure    (1.3)
+Diastolic blood pressure is used to estimate the pressure
+exerted against the arterial walls when no blood is being forcefully
+ejected through the vessels (diastole). Diastolic blood pressure
+provides an indication of peripheral resistance and can decrease with
+aerobic exercise due to vasodilation. In systemic circulation, pressure
+is highest in the aorta and arteries and rapidly falls off within the
+venous circulation. Also, because pumping by the heart is pulsatile,
+resting arterial pressure on average fluctuates between a systolic
+level of 120 mmHg and a diastolic level of 80 mmHg (approximate
+values). As the blood flow continues through the systemic
+circulation, its pressure falls progressively to nearly 0 mmHg (venous
+pressure) by the time it reaches the termination of the vena cava in
+the right atrium (17).
+The mean arterial pressure is the average blood pressure
+throughout the cardiac cycle (equation 1.4). Mean arterial pressure
+is not the average of systolic and diastolic pressures, because the
+arterial pressure usually remains nearer the diastolic level than the
+systolic level during a greater portion of the cardiac cycle. Thus, the
+87

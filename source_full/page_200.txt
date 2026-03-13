@@ -1,0 +1,16 @@
+inhibited by ATP. The reactions that produce NADH + H+ or FADH2
+also influence the regulation of the Krebs cycle. If NAD+ and FAD2+
+are not available in sufficient quantities to accept hydrogen, the rate
+of the Krebs cycle is reduced. Also, when GTP accumulates, the
+concentration of succinyl CoA increases, which inhibits the initial
+reaction (oxaloacetate + acetyl-CoA → citrate + CoA) of the Krebs
+cycle. The ETC is inhibited by ATP and stimulated by ADP (22). A
+simplified overview of the metabolism of fat, carbohydrate, and
+protein is presented in figure 3.8.
+FIGURE 3.8 The metabolism of fat and that of carbohydrate and protein share some
+common pathways. Note that many are oxidized to acetyl-CoA and enter the Krebs cycle.
+Energy Production and Capacity
+The phosphagen, glycolytic, and oxidative energy systems differ in
+their ability to supply energy for activities of various intensities and
+durations (tables 3.2 and 3.3). Exercise intensity is often defined in
+200

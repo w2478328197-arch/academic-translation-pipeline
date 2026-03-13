@@ -1,0 +1,36 @@
+Scenario A
+Scenario B
+Scenario C
+Sex
+Female
+Sex
+Male
+Sex
+Male
+Age
+20 years old
+Age
+28 years old
+Age
+17 years old
+Sport
+Collegiate basketball
+Sport
+Professional American
+football
+Sport
+High school cross country
+running
+Position Center
+Position Offensive lineman
+Position (Not applicable)
+Season
+Beginning of the in-
+season
+Season
+Beginning of the off-
+season
+Season
+Beginning of the
+preseason
+1194

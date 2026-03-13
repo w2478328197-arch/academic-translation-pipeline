@@ -1,0 +1,18 @@
+FIGURE 2.4 A third-class lever (the forearm). Elbow flexion against resistance (e.g., a
+biceps curl exercise). FM = muscle force; FR = resistive force; MM = moment arm of the
+muscle force; MR = moment arm of the resistive force. Because MM is much smaller than
+MR, FM must be much greater than FR.
+Most human muscles that rotate the limbs about body joints
+operate at a mechanical advantage of less than 1.0 (that is, at a
+mechanical disadvantage). This is why internal muscle forces are
+much greater than the forces exerted by the body on external
+objects. For example, in figure 2.2, because the resistance moment
+arm is eight times longer than the muscle moment arm, muscle
+force must be eight times the resistive force. The extremely high
+internal forces experienced by muscles and tendons account in large
+part for injury to these tissues. During actual movement, the
+categorization of a lever as first, second, or third class often depends
+on the somewhat arbitrary decision of where the fulcrum lies.
+Therefore, understanding the principle of mechanical advantage is of
+much greater importance than being able to classify levers.
+112

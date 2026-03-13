@@ -1,0 +1,106 @@
+Food
+Serving
+size
+Serving size in
+grams
+Average amount of protein
+(in grams) per serving
+Hamburger patty
+3 oz
+85
+22
+Herring, pickled
+¼ cup
+35
+5
+Hot dog, beef
+1
+50
+6
+Kidney beans
+1/2 cup
+88.5
+7.5
+Kielbasa, beef polska
+2 oz
+56
+7
+Lamb chop
+3 oz
+85
+24
+Lima beans
+1/2 cup
+94
+7
+Lobster, steamed
+3 oz
+85
+16
+Mahimahi fish, baked
+3 oz
+85
+20
+Milk, 1%, low-fat
+8 fl oz
+245
+8
+Mussels, steamed
+3 oz
+85
+20
+Oysters, raw
+4 oz
+113
+6.5
+Peanut butter
+2 tbsp
+32
+8
+Peanuts
+1/4 cup
+35.5
+9
+Pistachios
+1/4 cup
+30.5
+7
+Pork, ham
+3 oz
+85
+15
+Pork tenderloin
+3 oz
+85
+23
+Salmon, canned
+2 oz
+56
+13
+Salmon, filet, baked
+3 oz
+85
+17
+Sausage links
+3 links
+63
+10
+Shrimp, large
+4
+22
+5
+Sirloin steak
+3 oz
+85
+26
+Soy milk
+8 fl oz
+245
+8
+Soy nuts
+1/4 cup
+23
+9
+Data from U.S. Department of Agriculture, Agricultural Research Service, Beltsville Human
+Nutrition Research Center. FoodData Central. Available from https://fdc.nal.usda.gov/.
+558

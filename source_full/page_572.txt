@@ -1,0 +1,92 @@
+Food
+Serving
+size
+Serving
+size (g)
+Total
+fat
+(g)
+Saturated
+fat (g)
+Mono-
+unsaturated
+fat (g)
+Poly-
+unsaturated
+fat (g)
+Peanut butter,
+natural
+2 tbsp
+32
+16.5
+3.3
+8.3
+4.1
+Salmon, filet,
+wild, baked
+3 oz
+85
+6.9
+1.1
+2.3
+2.8
+Tuna, light,
+canned in
+water
+2 oz
+56
+0.5
+0.1
+0.1
+0.1
+Trout, filet,
+wild, baked
+3 oz
+85
+5.0
+1.4
+1.5
+1.6
+Walnuts,
+dried, halves
+1/4 cup
+25
+16.3
+1.5
+2.2
+11.8
+Yogurt, Greek,
+plain, low-fat
+1 cup
+245
+4.7
+3.0
+1.2
+0.2
+Yogurt, plain,
+low-fat
+1 cup
+245
+3.8
+2.5
+1.0
+0.1
+Data from U.S. Department of Agriculture, Agricultural
+Research Service, Beltsville Human Nutrition Research
+Center. FoodData Central. Available from https://fdc.nal
+.usda.gov/.
+TABLE 10.12 Classification of LDL, Total, and HDL
+Cholesterol
+LDL cholesterol (mg/dl)
+<100
+Optimal
+100-129
+Near optimal/above optimal
+LDL = low-density lipoprotein; HDL = high-density lipoprotein.
+Lipoprotein level testing should be completed after a 9- to 12-hour fast.
+LDL cholesterol is the primary target of therapy.
+Source: National Heart, Lung, and Blood Institute; National Institutes of Health; U.S.
+Department of Health and Human Services, Managing Blood Cholesterol in Adults:
+Systematic Evidence Review from the Cholesterol Expert Panel, 2013 (U.S. Department of
+Health and Human Services; National Heart, Lung, and Blood Institute, 2013).
+572

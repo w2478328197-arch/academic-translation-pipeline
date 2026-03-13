@@ -1,0 +1,109 @@
+Food
+Serving
+size (g)
+Glycemic
+index (GI;
+glucose =
+100)
+Available
+carbohydrates
+(g/serving)
+Glycemic
+load (GL; per
+serving)
+Mashed potatoes,
+instant
+150
+85 ± 3
+20
+17
+Muesli
+30
+55 ± 10
+19
+11
+Oatmeal, prepared
+50
+69
+35
+24
+Plantain
+120
+68 ± 6
+31
+21
+Potato chips
+50
+51 ± 7
+24
+12
+Raisins
+60
+64 ± 11
+44
+28
+Rice, brown
+(steamed, USA)
+150
+50
+33
+16
+Rice, white, long
+grain, boiled 20-30
+min
+150
+50
+36
+18
+Soft drink
+250 mL
+(8.5 fl oz)
+63
+26
+16
+Strawberries
+120
+40 ± 7
+3
+1
+Sweet potato, boiled
+150
+61 ± 7
+28
+17
+Tomato juice
+250 mL
+(8.5 fl oz)
+23 ± 6
+7
+2
+Vanilla wafers
+25
+77
+18
+14
+Whole wheat bread
+30
+72 ± 6
+12
+8
+Yogurt, low-fat
+(0.9%), wild
+strawberry
+200
+31 ± 14
+30
+9
+Based on Atkinson et al. (2008).
+Like carbohydrate, fat contains carbon, oxygen, and hydrogen
+atoms, but because the fatty acid chains have more carbon and
+hydrogen relative to oxygen, they provide more energy per gram.
+For 
+example, 
+fats 
+provide 
+approximately 
+9 
+kcal/g, 
+while
+566

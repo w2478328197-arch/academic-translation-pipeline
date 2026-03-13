@@ -1,0 +1,89 @@
+done in dynamic movements such as jumping or sprinting.
+Finally, power refers to how quickly work is performed. In its
+simplest form, power is the amount of work divided by the time over
+which the force is applied. Athletes in many sports aim to maximize
+power output, meaning they strive to apply as much force as
+possible over the shortest time frame to achieve the required
+movement.
+For all the equations in this chapter to work out correctly,
+consistent units must be used. In the International System of Units
+(SI, abbreviated from French), the worldwide standard, force is
+measured in newtons (N), length (e.g., distance and displacement)
+in meters (m), work in joules (J, i.e., newton-meters, or N · m), time
+in seconds (s), and power in watts (W, i.e., J/s). The appropriate SI
+units for the equations can be obtained from other common units
+using the factors listed in table 2.1 (47a).
+TABLE 2.1 Units of Measure and Conversions
+Quantity
+SI
+(international)
+unit
+Conversion
+multiplier
+Traditional
+(British)
+unit
+Conversion
+multiplier
+SI
+(international)
+unit
+Distance
+meter
+× 3.28 =
+foot
+× 0.3048 =
+meter
+Distance
+kilometer
+× 0.621 =
+mile
+× 1.61 =
+kilometer
+Angle
+radian
+× 57.3 =
+degree
+× 0.0175 =
+radian
+Velocity
+meters/second
+× 2.24 =
+miles/hour
+× 0.447 =
+meters/second
+Velocity
+kilometers/hour
+× 0.621 =
+miles/hour
+× 1.609 =
+kilometers/hour
+Force
+newton
+× 0.225 =
+pound
+× 4.45 =
+newton
+Force
+kilogram
+× 2.205 =
+pound
+× 0.4535 =
+kilogram
+Work,
+energy
+joule
+× 0.738 =
+foot-pound
+× 1.356 =
+joule
+Power
+watt
+× 0.0013 =
+horsepower
+× 745.7 =
+watt
+Reprinted by permission from D.W. Powell and M.A. Bryanton Jones, “Biomechanics,” in
+NSCA’s Essentials of Personal Training, 3rd ed., edited by B.J. Schoenfeld, R.L. Snarr
+(Human Kinetics, 2022), 45.
+131

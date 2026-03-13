@@ -1,0 +1,12 @@
+4. If using an instrumented device, record absolute force of eccentric hamstring force, typically
+measured in newtons (N). Ratio or allometric scaling of peak force, as discussed earlier in the
+chapter, may also be considered with Nordic hamstring force outputs to account for variations
+in body mass and length on the peak force measurements. Other metrics such as torque in
+newton-meters (Nm) or the percentage of asymmetry present between left and right
+hamstrings may also be recorded if desired. If using videography alone, the break point angle
+(the angle at which the external knee flexor moment can no longer be resisted and the athlete
+loses active control of downward motion) can be reported as a moderate proxy of eccentric
+hamstring strength.
+Note: Descriptive data for the Nordic hamstring test are presented in table 14.7 near the end of the
+chapter.
+783

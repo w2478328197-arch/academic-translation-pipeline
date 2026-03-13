@@ -1,0 +1,33 @@
+acetyl-CoA and hydrogen protons (figure 3.6). The acetyl-CoA is a
+common intermediary entering the Krebs cycle directly, and the
+hydrogen atoms are carried by NADH + H+ and FADH2 to the ETC
+(12a, 117a). The result is hundreds of ATP molecules supplied by
+beta oxidation. For example, the breakdown of a single triglyceride
+molecule containing three 16-carbon chain free fatty acids (palmitic
+acid) can be metabolized by beta oxidation to yield over 300 ATP
+molecules (>100 ATP per palmitic acid). The overarching concept is
+that fat oxidation is capable of a tremendous capacity for ATP
+synthesis compared to carbohydrate and protein oxidation.
+Protein Oxidation
+Although not a significant source of energy for most activities,
+protein can be broken down into its constituent amino acids by
+various metabolic processes. Most of these amino acids can then be
+converted into glucose (in a process known as gluconeogenesis),
+pyruvate, or various Krebs cycle intermediates to produce ATP
+(figure 3.6). The contribution of amino acids to the production of
+ATP has been estimated to be minimal during short-term exercise
+but may contribute 3% to 18% of the energy requirements during
+prolonged activity (20, 140). The major amino acids that are
+oxidized in skeletal muscle are believed to be the branched-chain
+amino acids (leucine, isoleucine, and valine), although alanine,
+aspartate, and glutamate may also be used (69). The nitrogenous
+waste products of amino acid degradation are eliminated through
+the formation of urea and small amounts of ammonia (22). The
+elimination through formation of ammonia is significant because
+ammonia is toxic and is associated with fatigue.
+Control of the Oxidative (Aerobic) System
+The rate-limiting step (i.e., the slowest reaction) in the Krebs cycle
+(figure 3.6) is the conversion of isocitrate to α-ketoglutarate, a
+reaction catalyzed by the enzyme isocitrate dehydrogenase.
+Isocitrate dehydrogenase is stimulated by ADP and allosterically
+199

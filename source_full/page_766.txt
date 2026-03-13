@@ -1,0 +1,46 @@
+Anaerobic or Maximum Muscular Power (High-Speed
+Strength)
+High-speed muscular strength or maximal anaerobic muscular power (or anaerobic
+power) is related to the ability of muscle tissue to exert high force while contracting at a high
+speed. Tests of strength and power are of very short duration, are performed at maximal
+movement speeds, and produce very high-power outputs. High-speed maximal muscular power
+tests are often called (maximal) anaerobic power tests. Scores on high-speed muscular strength
+tests include the 1RM of explosive exercises (e.g., the power clean, snatch, push jerk), the height
+of a vertical jump, and the time to sprint up a staircase (e.g., Margaria-Kalamen test) (69, 100, 103,
+124, 126). Because explosive exercise tests take about 1 second while low-speed maximal strength
+tests generally require 2 to 5 seconds to complete, phosphocreatine and adenosine triphosphate
+(ATP) stored in the active muscle(s) are the primary energy sources for both types of tests.
+Maintaining correct technique or form is also important when measuring anaerobic power for both
+performance validity and safety reasons.
+Most maximal muscular strength tests involve relatively slow movement speeds
+and therefore reflect low-speed strength. Assessment of high-speed muscular
+strength can involve measuring the 1RM of explosive resistance training exercises
+or the height of a vertical jump.
+Power output reflects the interplay between force and velocity. The height of a jump is a function
+of the force applied to the ground that is greater than the athlete’s body weight over the time it
+was applied (this is referred to as net impulse) while he or she extends the ankles, knees, and hips
+to propel upward. A larger net impulse (force × time) leads to a higher velocity at which the athlete
+leaves the ground. An athlete may not improve in jump height after gaining body weight during a
+resistance training cycle, making it appear that power output is unchanged. However, because the
+athlete is heavier and propels the body to the same height, indicating the same takeoff velocity, an
+increase in power output is likely. This applies to any test in which body weight is manipulated
+(e.g., running up stairs). Moving a heavier body at the same speed requires a higher power output.
+It is up to the strength and conditioning professional to interpret the interplay between changes in
+body weight, velocity, and power output accordingly, because for some athletes, such as those from
+collision-based sports, gains in absolute power through weight gain may be beneficial, but for
+athletes who benefit primarily from moving at high absolute velocities, a reduction in velocity owing
+to weight gain may be detrimental.
+An alternative class of anaerobic power tests involves the use of a cycle ergometer. This type of
+test can be advantageous for the strength and conditioning professional in some injury situations in
+which running is restricted or when the athlete participates in a non-bodyweight-support sport such
+as rowing or cycling. The most commonly used test of this type is the Wingate anaerobic test. A
+field test protocol involves use of a cycle ergometer with mechanical means of adjusting resistance
+and measuring pedal revolutions (i.e., revolutions per second). In a laboratory setting, an
+electronically instrumented ergometer can simplify parameter measurement and improve accuracy.
+Typical protocols involve a basic warm-up followed by a 30-second test interval (39). In this test,
+resistance is applied quickly after the individual reaches a near-maximal pedaling rate (typically 90-
+110 rpm). The resistance applied is proportional to body weight (e.g., 7.5%); the percentage is
+greater for trained athletes than for individuals with less training. Work performed is determined
+from the resistance value and number of pedal revolutions. Power is generally calculated as work
+divided by time for each 5-second time interval during the 30-second test. Parameters typically
+766

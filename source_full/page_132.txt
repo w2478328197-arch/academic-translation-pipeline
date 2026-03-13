@@ -1,0 +1,50 @@
+Quantity
+SI
+(international)
+unit
+Conversion
+multiplier
+Traditional
+(British)
+unit
+Conversion
+multiplier
+SI
+(international)
+unit
+Torque
+newton-meter
+× 0.738 =
+foot-pound
+× 1.356 =
+newton-meter
+Reprinted by permission from D.W. Powell and M.A. Bryanton Jones, “Biomechanics,” in
+NSCA’s Essentials of Personal Training, 3rd ed., edited by B.J. Schoenfeld, R.L. Snarr
+(Human Kinetics, 2022), 45.
+We can measure the velocity of the barbell with measurement
+devices such as accelerometers (measures the acceleration of the
+object from which velocity can be calculated) and linear position
+transducers (devices that have a cable that is extracted as the
+barbell is lifted upward, and retracts as it is lowered, recording how
+far and how fast this happens). Consider a set of standing overhead
+barbell presses with 60 kilograms for which we have velocity data.
+How can we calculate the work performed to move the barbell? The
+displacement of the barbell during the first repetition was 0.541
+meters. We take this and multiply it by the mass of the barbell and
+then multiply this by gravity using equation 2.3 like so:
+60 kg × 9.81 m ∙ s−2 × 0.541 m = 318.43 J    (2.5)
+Or we could calculate potential energy and kinetic energy on a
+sample-by-sample basis. The linear position transducer that was
+used to collect the barbell press velocity data records at a sampling
+frequency of 1,000 hertz (Hz, or samples per second). We then add
+these together and calculate the change, which provides the same
+result as the one shown in equation 2.5. What happens if the barbell
+mass is increased or it is lifted over a greater range of motion? If we
+add 20 kilograms to the barbell and lift it over the same range of
+movement, the work performed on it increases to 424.58 joules. To
+achieve that amount of work with the same load on the barbell, the
+athlete would have to lift it over approximately 33% farther (0.721
+m vs. 0.541 m). If this athlete performs multiple repetitions during a
+set and, as should be the case, the range of movement remains
+fairly constant, we can multiply the work performed on the barbell
+132

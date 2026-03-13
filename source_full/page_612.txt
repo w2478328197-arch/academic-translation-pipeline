@@ -1,0 +1,20 @@
+Dairy
+Amount that counts as 1 cup of dairy
+Milk
+1 cup milk
+1 half-pint container milk
+1/2 cup evaporated milk
+1 cup calcium-fortified soy milk
+1 half-pint container calcium-fortified soy milk
+Yogurt
+1 cup yogurt (dairy or fortified soy)
+Cheese
+1-1/2 oz hard cheese (cheddar, mozzarella, Swiss, Parmesan)
+1/3 cup shredded cheese
+1 oz processed cheese (American)
+1/2 cup ricotta cheese
+2 cups cottage cheese
+2 oz queso fresco
+2 slices queso blanco
+U.S. Department of Agriculture
+612

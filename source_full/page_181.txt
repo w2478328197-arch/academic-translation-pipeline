@@ -1,0 +1,6 @@
+FIGURE 3.1 (a) The chemical structure of an ATP molecule showing adenosine (adenine
++ ribose), the triphosphate group, and locations of the high-energy chemical bonds. (b)
+The hydrolysis of ATP breaks the terminal phosphate bond, releases energy, and leaves
+ADP, a Pi, and a hydrogen ion (H+). (c) The hydrolysis of ADP breaks the terminal
+phosphate bond, releases energy, and leaves AMP, Pi, and H+.
+181

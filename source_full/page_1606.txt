@@ -1,0 +1,39 @@
+Example of an Annual Training Plan
+A sample approach to designing a full annual training plan (i.e., macrocycle for
+sports with one competitive season) spanning all four sport seasons is presented
+in figure 22.8.
+The annual plan example provided in this chapter defines a macrocycle that
+lasts from May 1 until April 28. This macrocycle is subdivided into four seasons:
+off-season (May 1-August 20), preseason (August 21-November 5), in-season
+(November 6-April 14), and postseason (begins on April 15). Since there is only
+one competitive season in this annual training plan a single macrocycle structure
+has been used. This macrocycle is then subdivided into 14 mesocycles, which
+range in length between two and four weeks. Note: The primary focus of this
+sample annual training plan is to explain how to subdivide the annual plan and to
+design the resistance training component. Although other modes of training are
+described briefly (e.g., plyometrics, anaerobic conditioning, aerobic endurance)
+and can be easily incorporated into the annual plan, this example is not intended
+to illustrate every aspect of a strength and conditioning program for basketball.
+For more information on how to structure an annual training plan, consult NSCA’s
+Guide to Program Design (41).
+Off-Season
+Following the postseason active rest period, the athlete should be rested and
+ready to begin off-season (preparatory period) training. For this example, this
+preparatory period lasts about 16 weeks, from May 1 until August 20. The goal of
+this period is to establish a base level of conditioning to increase the athlete’s
+tolerance for more intense training in later phases and periods. In this example,
+mesocycle 1 is used to expose the athlete to initial strength and conditioning
+activities at low intensities and volumes to reintroduce them to training. Across
+the first two microcycles training intensity increases in preparation for
+performance testing that is planned for microcycle 3. During these first three
+weeks training loads are applied based on the athlete’s rating of perceived
+exertion or based on of the repetition-in-reserve scale presented in chapter 18.
+During microcycle 3 the training loads for all non-tested activities will be reduced
+so that the athletes can partake in a series of initial pretesting to establish the
+initial training loads for the exercises in the second mesocycle. In later
+mesocycles, when more or other exercises are added, the training loads can be
+estimated from loads used in similar exercises or can be determined from RM
+testing. For example, the strength and conditioning professional can reasonably
+predict training load for the hang clean from the tested power clean maximum, or
+the actual RM load could be measured. Other monitoring tests related to
+1606

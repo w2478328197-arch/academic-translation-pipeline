@@ -1,0 +1,31 @@
+contracts (here partially), the I-bands and H-zone are shortened. In this example, force
+potential is highest due to optimal actin and myosin overlap. (c) With contracted muscle,
+force potential is again low because actin and myosin overlap is not optimal.
+The discharge of an action potential from a motor
+neuron signals the release of calcium from the
+sarcoplasmic reticulum into the myofibrils of a muscle
+fiber, leading to a cascade of events that result in the
+contraction of the muscle fiber.
+Sliding-Filament Theory of Muscular Contraction
+The sliding-filament theory was proposed by Huxley and Hanson
+in 1954 to mechanistically explain muscular contraction at the
+molecular level (22). In its simplest form, the sliding-filament theory
+indicates that actin filaments anchored to each end of the sarcomere
+slide inward on myosin filaments. This results in Z-lines being pulled
+toward the center of the sarcomere and in muscle fiber shortening
+(figure 1.7). As actin filaments slide over myosin filaments, both the
+H-zone and I-band shrink. The energy-dependent association of
+myosin heads with actin filaments (i.e., actin-myosin crossbridge
+formation), as well as the energy-dependent inward movement of
+actin filaments over the myosin filaments through what is termed the
+power stroke, are the bases for muscle contraction. Although a
+very small displacement of an actin filament occurs with each power
+stroke, this action is rapidly repeated across all sarcomeres during
+voluntary muscle contractions leading to appreciable movement with
+prolonged contractions (41).
+Resting Phase
+When a muscle is not active, low levels of calcium are present in the
+myofibrils of muscle fibers (most of it is stored in the sarcoplasmic
+reticulum), so very few actin-myosin crossbridges are formed.
+Excitation–Contraction Coupling Phase
+53

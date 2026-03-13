@@ -1,0 +1,54 @@
+to individual variability with regards to its accuracy, having a
+documented standard deviation of 10 to 12 beats per minute (123).
+Refer to the sidebar Target Heart Rate Calculations for formulas and
+sample calculations for determining aerobic endurance exercise
+heart rate ranges using the Karvonen method and the
+percentage of maximal heart rate (MHR) method. The
+relationship between V̇ O2max, HRR, and MHR is shown in table 21.2.
+TABLE 21.2 Relationship Between V̇ O2max, Heart
+Rate Reserve (HRR), and Maximal Heart Rate (MHR)
+% V̇ O2max
+% HRR
+% MHR
+50
+50
+66
+55
+55
+70
+60
+60
+74
+65
+65
+77
+70
+70
+81
+75
+75
+85
+80
+80
+88
+85
+85
+92
+90
+90
+96
+95
+95
+98
+100
+100
+100
+Although the Karvonen and percentage of maximal heart rate
+formulas provide practical intensity assignments, basing them on
+APMHR will entail some inaccuracies (vs. laboratory-tested maximal
+heart rates) when exercise intensity is monitored (73). It has been
+determined that age contributes significantly to the variability in
+maximal heart rate; however, the effects of other factors such as
+mode of exercise and fitness level must also be considered with the
+use of heart rate to monitor intensity (73). Changes in fitness over
+1526

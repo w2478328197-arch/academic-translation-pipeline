@@ -1,0 +1,70 @@
+32
+Blue
+8.5 kg
+(18.7 lb)
+14.8 kg
+(32.6 lb)
+19.5 kg
+(43.0 lb)
+23.9 kg
+(52.7 lb)
+27.3 kg
+(60.2 lb)
+Y = −0.004x2 +
+1.60x − 114.86
+48
+Green
+11.8 kg
+(26.0 lb)
+16.5 kg
+(36.4 lb)
+24.0 kg
+(52.9 lb)
+30.0 kg
+(66.1 lb)
+49.3 kg
+(108.7
+lb)
+Y = −0.007x2 +
+2.43x − 179.56
+67
+Black
+15.4 kg
+(34.0 lb)
+29.1 kg
+(64.2 lb)
+40.0 kg
+(88.2 lb)
+49.3 kg
+(108.7
+lb)
+57.2 kg
+(126 lb)
+Y = −0.010x2 +
+3.73x − 269.21
+Adapted by permission from D.T. McMaster, J. Cronin, and M. McGuigan, “Quantification of
+Rubber and Chain-Based Resistance Modes,” Journal of Strength and Conditioning
+Research 24, no. 8 (2010): 2061.
+Similar to how resistance is applied with the use of chains, the
+use of bands requires the strength and conditioning professional to
+determine how much load is provided by the free weight and how
+much is provided from the bands throughout the range of movement
+(8). Specifically, the strength and conditioning professional must
+determine the load of the band at the bottom and top portions of
+the movement and create an average of these two loads. Based on
+the recommendations of Baker (8), an athlete who wants to train at
+a 5RM load of 150 kilograms (331 lb) with bands would subtract the
+average of the two band positions (i.e., top and bottom) and reduce
+the load on the bar by that amount. So if the band exerts a zero
+resistance load at the bottom of the movement and a load of 26.6
+kilograms (58.6 lb) at the top position (i.e., lockout in the bench
+press), based on the length of the band achieved as it is stretched,
+the athlete would subtract 13.3 kilograms (29.3 lb) from the total
+weight on the bar without the bands to get 136 to 137 kilograms
+(300-302 lb).
+Applying Resistance Bands to Free Weight Exercises
+To apply resistance bands to free weight resistance exercises, one
+can use a multitude of methods. The band may be attached to the
+barbell and either a customized attachment point on a squat rack or
+heavily weighted dumbbells (8). When the bands are applied, the
+1110

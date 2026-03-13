@@ -1,0 +1,38 @@
+Effect size is a statistic that can be useful for calculating group performance following a training
+program or comparing between groups of athletes (42). The effect of the training program can be
+calculated as the difference or change in the mean score as a proportion of the pretest standard
+deviation (equation 14.3).
+ES = (x posttest − x pretest) / SD pretest    (14.3)
+For example, a group of athletes had a pretraining mean bench press 1RM of 104.5 kilograms
+(standard deviation of 5.7 kg), and after a 12-week training intervention the mean bench press is
+111.7 kilograms. The calculated effect size would be equal to (111.7 − 104.5) / 5.7 = 1.26.
+Several scales have been provided to compare the magnitude of the effect (28, 103, 127), but
+reference values for small (0.2), moderate (0.6), large (1.2), and very large (2.0) can be a useful
+starting point for practitioners (42, 75). For the example just given, this would mean that the
+strength and conditioning professional would interpret the effect size of 1.26 as meaning that the
+training program had a large effect.
+Developing an Athletic Profile
+To determine the sport-specific training status of an athlete, the strength and conditioning
+professional can combine the results of selected tests to generate an athletic profile, which is a
+group of test results related to sport-specific abilities that are important for quality performance in a
+sport or sport position. When evaluating athletes, the strength and conditioning professional should
+follow these six steps:
+1. Select tests that will measure the specific parameters most closely related to the physical
+characteristics of the sport or sports in question. For example, a testing battery for wrestlers
+should include tests for pulling strength, pushing strength, and local muscular endurance.
+2. Choose valid and reliable tests to measure these parameters, and arrange the testing battery
+in an appropriate order with sufficient rest between tests to promote test reliability (see
+chapter 13 for more detail). For example, appropriate tests for wrestling might include push-
+ups and sit-ups for maximum repetitions in a given time interval. These two tests should be
+separated by at least 10 minutes of rest to allow recovery from fatigue and thus promote
+accurate scores.
+3. Administer the test battery with as many athletes as possible.
+4. Determine the smallest worthwhile change for the tests and compare to normative data
+where appropriate. It is recommended that coaches store testing results and develop their
+own norms when standardized procedures are used.
+5. Conduct repeat testing (e.g., pre- and posttraining program) and use the results to present a
+visual profile with figures.
+6. Use the results of the testing in some meaningful way. Ideally, the results will enable the
+strength and conditioning professional to identify the strengths and weaknesses of the
+athletes and to design the training program with these in mind.
+825

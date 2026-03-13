@@ -1,0 +1,73 @@
+Characteristic
+Fiber types
+Contraction speed
+Slow
+Fast
+Fast
+Relaxation speed
+Slow
+Fast
+Fast
+Fatigue resistance
+High
+Intermediate/low
+Low
+Endurance
+High
+Intermediate/low
+Low
+Force production
+Low
+Intermediate
+High
+Power output
+Low
+Intermediate/high
+High
+Aerobic enzyme content
+High
+Intermediate/low
+Low
+Anaerobic enzyme content
+Low
+High
+High
+Sarcoplasmic reticulum complexity
+Low
+Intermediate/high
+High
+Capillary density
+High
+Intermediate
+Low
+Myoglobin content
+High
+Low
+Low
+Mitochondrial size, density
+High
+Intermediate
+Low
+Fiber diameter
+Small
+Intermediate
+Large
+Color
+Red
+White/red
+White
+Motor Unit Recruitment Patterns
+Through everyday experiences, it is evident that a given muscle can
+vary its level of force output according to the level required by a
+particular task. This ability to vary or gradate force is essential for
+performance of smooth, coordinated patterns of movement.
+Muscular force can be graded in two ways. One is through variation
+in the frequency at which motor units are activated. A single twitch
+results from one action potential, and this does not produce a great
+deal of force. However, if the frequency of activation is increased so
+that the forces of the twitches begin to overlap or summate, the
+resulting force developed by the motor unit is much greater. This
+method of varying force output is especially important in small
+muscles, such as those of the hand. Even at low forces, most of the
+motor units in these muscles are activated, albeit at a low frequency.
+62

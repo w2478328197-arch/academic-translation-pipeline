@@ -1,0 +1,13 @@
+FIGURE 2.3 A second-class lever (the foot). Plantar flexion against resistance (e.g., a
+standing heel raise exercise). FM = muscle force; FR = resistive force; MM = moment arm of
+the muscle force; MR = moment arm of the resistive force. When the body is raised, the ball
+of the foot, being the point about which the foot rotates, is the fulcrum (O). Because MM is
+greater than MR, FM is less than FR.
+Figure 2.1 shows a first-class lever, because muscle force and
+resistive force act on opposite sides of the fulcrum. During isometric
+exertion or constant-speed joint rotation, FM × MM = FR × MR.
+Because MM is much smaller than MR, FM must be much greater than
+FR; this illustrates the disadvantageous nature of this arrangement
+(i.e., a large muscle force is required to push against a relatively
+small external resistance).
+111

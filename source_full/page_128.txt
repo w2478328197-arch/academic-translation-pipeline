@@ -1,0 +1,31 @@
+Human Strength and Power
+The terms strength and power are widely used to describe some
+important abilities that contribute to maximal human efforts in sport
+and other physical activities. Unfortunately, there is often little
+consistency in the way the terms are used. This section provides a
+scientific basis for understanding human strength and power and
+shows how various factors contribute to their manifestation.
+Basic Definitions
+Though it is widely accepted that strength is the ability to exert
+force, there is considerable disagreement as to how strength should
+be measured. The load that a person can lift is probably the oldest
+quantitative measure of strength. Technological developments have
+popularized the use of isometric strength testing and also isokinetic
+strength testing. All sports involve acceleration (the change in
+velocity with respect to time) of the body, a sporting implement
+(e.g., baseball bat, javelin, tennis racket), or both. Acceleration is
+associated with resistive force according to Isaac Newton’s second
+law of motion:
+  F = m × a     (2.1)
+Where F refers to force, m refers to mass, and a refers to
+acceleration. For clarity, force can be thought of as how hard we
+push or pull something, while mass refers to the stuff (e.g., bone,
+muscle, and organs) that we are made of. Although it can seem
+abstract, the impulse–momentum relationship, an extension of
+equation 2.1, provides more context (equation 2.2).
+  F × Δt = m × Δv    (2.2)
+where everything to the left of the equal sign describes impulse
+and everything to the right of the equal sign describes momentum
+(more specifically, a change in momentum). This means that to
+cause (or control) the movement of an object (i.e., the mass of the
+128

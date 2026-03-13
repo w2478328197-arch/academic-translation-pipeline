@@ -1,0 +1,32 @@
+Mode—the score that occurs with the greatest frequency. If each numerical score appears only
+once, there is no mode. If two or more scores are tied for greatest frequency, all of the similar
+scores are modes. The mode is generally regarded as the least useful measure of central
+tendency.
+Variability The degree of dispersion of scores within a group is called variability. Two common
+measures of variability are the range and the standard deviation. The range is the interval from
+the lowest to the highest score. The advantage of the range is that it is easy to understand; the
+disadvantage is that it uses only the two extreme scores and so may not be an accurate measure of
+variability (145). For example, the range could be the same for a group of widely dispersed scores
+as for a group of scores that are narrowly dispersed except for one deviant score. The standard
+deviation is a measure of the variability of a set of scores about the mean. The formula for the
+standard deviation of a sample is as follows:
+SD=∑(x−x¯)2n−1  (14.1)
+where Σ refers to a summation, x is a score, x is the mean of the scores, and n is the sample size
+(number of scores). A relatively small standard deviation indicates that a set of scores is closely
+clustered about the mean; a large standard deviation indicates wider dispersion of the scores about
+the mean. The standard deviation is most useful when the group of scores is “normally distributed,”
+forming the bell-shaped curve shown in figure 14.32 (26, 67).
+The z-score can be used to express the distance of any individual score in standard deviation
+(SD) units from the mean:
+  z = (x − x) / SD    (14.2)
+For example, if an athlete runs the 40-yard (37 m) sprint in 4.6 seconds and the mean and
+standard deviation for the group tested are 5.00 and 0.33 seconds, respectively, equation 14.2 can
+be applied to determine that the z-score for that athlete is −1.2. In other words, the athlete’s score
+is 1.2 standard deviation units below (i.e., faster than) the group mean. Graphs can be a useful way
+of representing z-scores visually. This can provide the strength and conditioning professional with a
+comparison of different physical capacities and provide assistance with making decisions on which
+weaknesses to target with a training program. In the example shown, the strength and conditioning
+professional may decide to focus on improving endurance and flexibility while also improving body
+composition (figure 14.33).
+FIGURE 14.32 Normal bell curve.
+823

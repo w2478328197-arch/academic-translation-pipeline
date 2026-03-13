@@ -1,0 +1,37 @@
+Speed and Agility Mechanics
+To execute movement techniques, athletes must apply force—the
+product of mass and acceleration. Due to the limited available time
+to produce force during most athletic activities, two variables
+describe force relative to the time available to produce force:
+Rate of force development (RFD)—The development of
+maximal force in minimal time, typically used as an indicator of
+explosive strength (3).
+Impulse—The product of the generated force and the time
+required for its production, which is measured as the area
+under the force–time curve. According to the impulse–
+momentum 
+relationship, 
+net 
+impulse 
+dictates 
+the
+magnitude of change of momentum of an object. Because
+mass remains constant in most sporting scenarios, increases in
+net impulse are therefore proportionate to changes in velocity.
+Physics of Sprinting, Change of Direction,
+and Agility
+Force represents the interaction of two physical objects. Force is a
+vector quantity, meaning that it has both magnitude (size) and
+direction. Traditionally, force is described as a push or a pull exerted
+on one object by another, which prevents both objects from
+occupying the same space. This movement of mass changes an
+object’s velocity, causing acceleration.
+Within the strength and conditioning profession, velocity and
+speed are often used interchangeably. For a proper discussion on
+sprint and agility performance, these terms need to be separated.
+Speed is a scalar quantity, which means that it describes only how
+fast an object is moving. Speed is the rate at which an object covers
+a distance. Like force, velocity is a vector quantity. Velocity
+describes both how fast an object is traveling and its direction. In
+short, velocity is speed with a direction.
+1402

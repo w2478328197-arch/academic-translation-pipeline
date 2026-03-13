@@ -1,0 +1,40 @@
+displayed very large relationships between estimated RIR and actual RIR and
+showed that RIR estimations become more accurate when exercise sets are
+performed closer to failure. These findings are supported by additional
+researchers (100, 198); thus, strength and conditioning professionals must
+consider that the relative intensity of each exercise set may need to be higher
+for this method to be useful for load prescription purposes.
+When implementing RPE and RIR, it is recommended to prescribe intensities
+in the form of ranges (e.g., RPE of 7-8 or RIR of 2-3) (176). Although relatively
+few studies exist, some have shown that load prescription based on RPE for 8
+weeks (73) and RIR for 12 weeks (60) may lead to greater strength
+improvements compared to using percentages of 1RM. However, further studies
+with additional athlete populations are needed before concrete conclusions can
+be drawn. RPE and RIR may be best used if combined with an objective method
+(e.g., percentage of 1RM) so that the desired loads for a given exercise can be
+determined before using RPE/RIR to adjust the load for autoregulation purposes
+(176). Professionals should note that the ability to gauge physical exertion may
+vary based on athletic experience (4). For example, inexperienced athletes may
+not understand what a near-maximal or maximal resistance training effort feels
+like. Thus, strength and conditioning professionals should consider limiting load
+autonomy until the athletes can display proficiency with the RPE and RIR
+methods.
+Set-Repetition Best
+Originally proposed by Stone and O’Bryant (162), set-repetition best (SRB) is
+a load prescription method that uses relative intensities (i.e., percent ranges)
+where the maximum load is estimated based on performances of a given set and
+repetition scheme. In other words, SRB determines loads based on percentages
+of what was performed in training. Specifically, 5% ranges are prescribed to
+allow strength and conditioning professionals to observe the performance of
+their athletes and incorporate athlete feedback as a means of autoregulation.
+Beyond the ability to adjust weekly training prescription, SRB allows specific
+training loads to be estimated when prescribing different set and repetition
+schemes (e.g., loads for 3 sets of 5 repetitions should be approximately 15%
+less than 3 sets of 2 repetitions) (162, 176). Compared to prescribing xRM
+percentages based on single sets, SRB is based on multiple sets so that an
+athlete’s training loads are based on relative percentages of the prescribed set-
+repetition scheme. Using SRB, any set-repetition scheme can be prescribed and
+progressed using relative 5% ranges. For example, 3 sets of 5 repetitions or 3
+sets of 10 repetitions can be prescribed with 85% to 90% of the respective
+estimated maximal load for 3 sets of 5 or 3 sets of 10, respectively, in week 1 of
+1232

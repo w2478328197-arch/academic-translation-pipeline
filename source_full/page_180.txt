@@ -1,0 +1,18 @@
+Phosphagen System
+The phosphagen system provides ATP primarily for short-term, high-
+intensity activities (e.g., resistance training and sprinting) and is
+highly active at the start of all exercise regardless of intensity (62,
+70, 155). This energy system relies on the hydrolysis of ATP
+(equation 3.1) and breakdown of another high-energy phosphate
+molecule 
+called 
+creatine 
+phosphate 
+(CP), 
+also 
+called
+phosphocreatine (PCr). Creatine kinase is the enzyme that
+catalyzes the synthesis of ATP from CP and ADP in the following
+reaction:
+ ADP + CP ↔Creatine kinase  ATP + Creatine  (3.2)
+180

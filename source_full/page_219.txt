@@ -1,0 +1,34 @@
+duration of the active portion of each work bout,
+intensity of the recovery portion of each work bout,
+duration of the recovery portion of each work bout,
+number of work bouts performed in each set,
+number of sets,
+rest time between sets,
+recovery intensity between sets, and
+mode of exercise for HIIT.
+The authors (24) indicate, however, that the intensities and
+durations of the active and recovery portions of each work bout are
+the most important factors to consider. To optimize HIIT training
+adaptations for athletes, HIIT sessions should maximize the time
+spent at or near V̇ O2max. In comparison to more general interval
+training, during HIIT specifically, the cumulative duration and
+intensity of the active portions of the work bouts should equate to
+several minutes above 90% of V̇ O2max (24).
+The benefits of a HIIT protocol designed to repeatedly elicit a
+very high percentage of V̇ O2max are primarily the result of the
+concurrent recruitment of large motor units and near-maximal
+cardiac output (6). Thus, HIIT provides a stimulus for both oxidative
+muscle fiber adaptation and myocardial hypertrophy. Additional HIIT
+adaptations include increases in V̇ O2max, proton buffering, glycogen
+content, anaerobic thresholds, time to exhaustion, and time-trial
+performance. For example, Gibala and coworkers (63) reported
+equivalent improvements in muscle buffering capacity and glycogen
+content for HIIT at 250% of V̇ O2peak during four to six 30-second
+cycling sprints compared to continuous cycling for 90 to 120 minutes
+at 65% of V̇ O2peak over six total training sessions. In addition, 750
+kilojoules cycling time trials decreased in both groups by 10.1% and
+7.5% in the HIIT and long, slow endurance training groups,
+respectively. Thus, HIIT provided performance and physiological
+adaptations equivalent to those of long, slow endurance training but
+in a time-efficient manner.
+219

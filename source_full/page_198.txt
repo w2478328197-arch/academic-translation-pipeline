@@ -1,0 +1,41 @@
+Process
+Net ATP production
+GLYCOLYSIS
+Substrate-level phosphorylation (4 ATP produced / 2 ATP
+consumed)
+2*
+Oxidative phosphorylation:
+2 NADH (2.5 ATP each)
+5
+PYRUVATE OXIDATION
+2 NADH (2.5 ATP each)
+5
+KREBS CYCLE (2 ROTATIONS THROUGH THE KREBS CYCLE PER GLUCOSE)
+Substrate-level phosphorylation
+2
+Oxidative phosphorylation:
+6 NADH (2.5 ATP each)
+15
+Via GTP:
+2 FADH2 (1.5 ATP each)
+3
+TOTAL
+32
+*Glycolysis consumes 2 ATP (if starting with blood glucose), so net ATP production is 34 −
+2 = 32. This figure may also be reported as 30 ATP or as high as 36 depending on which
+shuttle system is used to transport the NADH to the mitochondria. ATP = adenosine
+triphosphate; FADH2 = flavin adenine dinucleotide; GTP = guanine triphosphate; NADH =
+nicotinamide adenine dinucleotide.
+Fat Oxidation
+The oxidative energy system can alternatively use fats. Triglycerides
+stored in fat cells can be broken down by an enzyme, hormone-
+sensitive lipase, to produce free fatty acids and glycerol. The
+breakdown releases a portion of the total free fatty acids from the
+fat cells into the blood, where they can circulate and enter muscle
+fibers and undergo oxidation (89, 123). Additionally, limited
+quantities of triglycerides are stored within the muscle along with a
+form of hormone-sensitive lipase to produce an intramuscular source
+of free fatty acids (22, 47). Free fatty acids enter the mitochondria,
+where they undergo beta oxidation, a series of reactions in which
+the free fatty acids are broken down, resulting in the formation of
+198

@@ -1,0 +1,60 @@
+Distance (m)
+Distance (yd)
+National soccer—men (106)
+18
+2,260 ± 80
+2,472 ± 87
+National soccer—men (106)
+24
+2,040 ± 60
+2,231 ± 66
+National rugby league—men (4)
+23
+1,656 ± 403
+1,811 ± 441
+Semi-professional rugby league—men (4)
+27
+1,564 ± 415
+1,710 ± 454
+National soccer—women (108)
+17
+1,224 ± 255
+1,339 ± 279
+National soccer—men (108)
+17
+2,414 ± 456
+2,640 ± 499
+National junior soccer—women (108)
+17
+826 ± 160
+903 ± 175
+National junior soccer—men (108)
+17
+2,092 ± 260
+2,288 ± 284
+Under 17 soccer—men (37)
+60
+1,556 ± 478
+1,702 ± 523
+Under 16 rugby union—men (117)
+150
+1,150 ± 403
+1,258 ± 441
+Under 14 elite basketball—men (152)
+15
+1,100 ± 385
+1,203 ± 421
+Under 15 elite basketball—men (152)
+15
+1,283 ± 461
+1,403 ± 504
+Under 17 elite basketball—men (152)
+17
+1,412 ± 245
+1,544 ± 268
+Under 18 Gaelic football—men (34)
+265
+1,465 ± 370
+1,602 ± 405
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+846

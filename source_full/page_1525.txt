@@ -1,0 +1,34 @@
+intensity that is too low does not stress the body’s systems and
+induce the desired physiological adaptations, whereas an intensity
+that is too high results in excessive fatigue and a premature end to
+the training session. In either instance, the training session will be
+poor and ineffective.
+The most accurate methods for regulating exercise intensity are
+to monitor oxygen consumption during exercise to determine its
+percentage of V̇ O2max and to periodically measure blood lactate
+concentration to determine the relationship to LT. If V̇ O2max
+monitoring is not available, exercise prescriptions can use heart rate,
+ratings of perceived exertion, metabolic equivalents (in clinical
+populations), or exercise velocity to monitor exercise intensity.
+Power-measuring devices are also frequently used by elite and top-
+level amateur competitors, especially in cycling.
+Heart Rate
+Heart rate is likely the most frequently used method for prescribing
+aerobic exercise intensity. The reason is the close relationship
+between heart rate and oxygen consumption, especially when the
+intensity is between 50% and 90% of functional capacity
+(V̇ O2max), also called heart rate reserve (HRR). HRR is the
+difference between an athlete’s maximal heart rate and their resting
+heart rate (24). The most common means of regulating intensity
+using this method is to determine the specific heart rate associated
+with the desired percentage of V̇ O2max or the heart rate associated
+with the LT. For the greatest precision, this necessitates laboratory
+testing to identify these exercise intensities. If laboratory testing is
+unavailable, the individual’s age-predicted maximal heart rate
+(APMHR) is often used as the basis for determining exercise
+intensity. While there are numerous APMHR equations, all of which
+are estimates and have been shown to have varying degrees of bias,
+the Fox equation (APMHR = 220 - age) appears less prone to under-
+and overestimation of HRmax in the general population (123). It is
+important to note, however, that the Fox equation is also susceptible
+1525

@@ -1,0 +1,38 @@
+Program Design
+Program design involves planning at several levels, each with its own
+set of considerations: microcycles (short term), mesocycles (medium
+term), and macrocycles (long term). The process is referred to as
+periodization. Periodization is the strategic manipulation of an
+athlete’s preparedness through the employment of sequenced
+training phases defined by cycles and stages of workload (see
+chapter 22). These planned workloads are varied to facilitate the
+integration of planned programming tactics that will harmonize the
+relationship between training-induced fatigue and accommodation
+(30). Furthermore, the periodization process is guided by
+information collected during the athlete monitoring process.
+Specifically, as an athlete progresses through a training phase,
+consistent 
+information 
+acquired 
+through 
+various 
+monitoring
+strategies helps to show how the athlete is responding to the
+training stimulus in the short term and how the athlete should be
+further developed in the long term—that is, how the original training
+program should be modified to reflect responses to the training.
+At each level of training plan development, strength and
+conditioning professionals must manipulate certain variables. While
+these are useful in characterizing the training agenda as well as
+quantifying workloads, strength and conditioning professionals
+should keep in mind that each variable must be considered
+individually, and they should regard how it affects the collective
+system. Moreover, individual athlete training responses, which
+athlete monitoring reveals, should be used in the manipulation of
+these variables:
+Angle—The intended angle for COM deflection during the task
+and a regulator for knee joint loading
+Approach velocity—The horizontal entry velocity of the COM as
+the athlete begins to initiate their COD action over multiple
+steps and a regulator for knee joint loading
+1463

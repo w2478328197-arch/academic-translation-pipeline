@@ -1,0 +1,32 @@
+phosphoenolpyruvate to pyruvate and is the final regulatory enzyme.
+Pyruvate kinase is allosterically inhibited by ATP and acetyl-CoA (the
+latter is a Krebs cycle intermediate) and activated by high
+concentrations of AMP and fructose-1,6-bisphosphate (61).
+Lactate Threshold and Onset of Blood Lactate
+Accumulation
+As exercise intensity increases, specific break points are evident in
+the lactate accumulation curve (figure 3.5), indirectly representing
+the change in metabolic acidosis (39, 99). The exercise intensity or
+relative intensity at which blood lactate begins an abrupt increase
+above the baseline concentration has been termed the lactate
+threshold (LT) or (LT1) (163). The LT represents a significantly
+increased reliance on the glycolytic pathway for energy production to
+meet demand. The LT corresponds well with the ventilatory
+threshold (breaking point in the relationship between ventilation and
+V̇ O2) and is often used as a marker of the anaerobic threshold.
+The LT typically begins at 50% to 60% of maximal oxygen
+uptake in untrained individuals and at 70% to 80% in aerobically
+trained athletes (29, 52). A second exponential increase in the rate
+of lactate accumulation has been noted at higher relative intensities
+of exercise. This second point of inflection has been termed the
+onset of blood lactate accumulation (OBLA) or lactate
+threshold (LT2) and occurs approximately when the concentration
+of blood lactate reaches 4 mmol/L (85, 138, 144). Alternatively, the
+LT2 threshold can be calculated, with the Dmax modified method
+reported to have the highest repeatability (81). The breaks in the
+lactate accumulation curve may correspond to the points at which
+intermediate and large motor units are recruited during increasing
+exercise intensities (94). The muscle cells associated with large
+motor units are typically type II fibers, which are particularly suited
+for anaerobic metabolism and lactate production.
+193

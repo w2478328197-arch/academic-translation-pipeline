@@ -1,0 +1,47 @@
+Relative Energy Deficiency in Sport (RED-S)
+Relative energy deficiency in sport (RED-S) encompasses various
+physiological dysfunctions resulting from low energy availability (LEA), where an
+athlete’s energy intake does not match the energy expended during exercise.
+This mismatch affects metabolic rate, menstrual function, bone health, immunity,
+protein synthesis, and cardiovascular health, among others. This phenomenon
+was initially recognized in 2014 with the international RED-S consensus
+statement (88) and has continued to encompass additional research. For more
+details on the implications of RED-S, see these previous papers (25, 89).
+LEA is quantified by energy availability (EA), calculated as energy intake
+minus exercise energy expenditure, relative to fat-free mass (FFM). Optimal EA
+for healthy function is around 45 kilocalories per kilogram FFM per day, while
+severe perturbations can occur below 30 kilocalories per kilogram FFM per day
+(25, 88). LEA adversely affects various systems, including the endocrine system,
+leading to disruptions in hormonal balance, particularly in female athletes, and
+possibly in males, though male athletes appear to be more physiologically
+resilient at lower EA values. LEA may be one of the strongest indicators of injury
+risk for athletes (133), with oligomenorrheic and functional hypothalamic
+amenorrheic 
+(FHA) 
+athletes 
+reporting 
+higher 
+percentages 
+of 
+severe
+musculoskeletal injuries resulting in greater durations of time lost from sport
+(134).
+Menstrual dysfunction, including amenorrhea, is a common consequence of
+sustained LEA in female athletes, due to the impact on the hypothalamic–
+pituitary–gonadal (HPG) axis. Chronic LEA also compromises bone health,
+leading to decreased bone mineral density and increased risk of bone stress
+injuries, particularly in sports with high energy demands. Metabolic changes,
+including decreased RMR, and hematological alterations, such as iron deficiency,
+are also associated with LEA. Growth and development, cardiovascular function,
+gastrointestinal health, and immune function are also affected, particularly at
+very low levels of LEA and over longer periods of time. Psychological implications
+include increased risk of depression, eating disorders, and impaired stress
+management.
+Performance-wise, LEA can impair recovery, muscle function, and glycogen
+storage, affecting physical and psychological capacity, training quality, and injury
+risk (89). However, despite these associations, direct evidence of LEA’s impact on
+sport performance is limited. Studies on elite athletes suggest that LEA may
+impair sport performance indirectly by acutely affecting fuel storage and use
+(132), reducing training volume, and increasing risk of illness (35, 36). Yet
+further research with robust protocols is needed to fully understand the acute
+650

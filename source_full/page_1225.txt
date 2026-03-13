@@ -1,0 +1,39 @@
+Although %1RM–repetition tables provide helpful guidelines for assigning an
+athlete’s training loads, research to date does not support the widespread use of
+such tables for establishing training loads for every exercise assigned to athletes,
+for the following reasons:
+Table 18.8 assumes there is a linear association between the loads lifted
+and the repetitions performed; however, several studies have reported a
+curvilinear relationship (95, 99, 103).
+Resistance-trained athletes may be able to exceed the number of
+repetitions listed in the table at any given percentage of their 1RM,
+especially in lower body core exercises (74, 75, 120, 134).
+The number of repetitions that can be performed at a certain percentage
+of the 1RM is based on a single set. When an athlete performs multiple
+sets, the loads may need to be reduced so that the desired number of
+repetitions can be completed in all the sets. Despite the prevalence of 1RM
+research, athletes may not always perform the predicted number of
+repetitions at a specified percentage of a 1RM. For instance, researchers
+have shown that subjects were able to perform two or three times more
+repetitions than are listed in table 18.8 (74, 75, 134).
+A certain percentage of the 1RM assigned to a machine exercise can result
+in more repetitions at the same percentage of the 1RM than with a similar
+free weight exercise (74, 75).
+Exercises involving smaller muscle areas may not produce as many
+repetitions as seen in table 18.8, and exercises recruiting large muscle
+areas are likely to result in more repetitions performed (183).
+Empirical evidence further suggests that as the percentage of the 1RM
+decreases, the variability in the number of repetitions that can be
+completed increases. For example, the most accurate relationship between
+percentages of the 1RM and the maximum repetitions possible is for loads
+greater than 75% of the 1RM and fewer than 10 repetitions (133) with
+greater accuracy coming with even lower repetitions (45).
+Therefore, loads calculated from the %1RM in table 18.8 should be used only
+as a guideline for estimating a particular RM load for a resistance training
+exercise. Even with the inherent weaknesses just explained, it appears that it is
+still more accurate to assign loads based on a percentage of a test-established
+1RM than it is to estimate a 1RM from a submaximal load (74, 75).
+1RM and xRM Testing Options
+To gather information needed to assign a training load, the strength and
+conditioning professional has the option of determining the athlete’s
+1225

@@ -1,0 +1,63 @@
+Force output of the whole muscle is intensified through an increase
+in the frequency of firing of individual motor units. Another manner
+to increase muscle force involves increasing the number of motor
+units activated, a process known as recruitment. In large muscles,
+such as those in the thigh, most motor units are required to be
+activated at relatively higher frequencies during near-maximal
+contraction efforts. As a result, increases in force output are
+achieved through increases in motor unit firing frequency as well as
+the recruitment of additional motor units.
+TABLE 1.2 Relative Involvement of Muscle Fiber
+Types in Sport Events
+Event
+Type I
+Type II
+100 m sprint
+Low
+High
+800 m run
+High
+High
+Marathon
+High
+Low
+Olympic weightlifting
+Low
+High
+Soccer, lacrosse, hockey
+High
+High
+American football wide receiver
+Low
+High
+American football lineman
+Low
+High
+Basketball, team handball
+Low
+High
+Volleyball
+Low
+High
+Baseball or softball pitcher
+Low
+High
+Mixed martial arts
+High
+High
+Wrestling
+High
+High
+50 m swim
+Low
+High
+Field events
+Low
+High
+Cross-country skiing, biathlon
+High
+Low
+Tennis
+High
+High
+63

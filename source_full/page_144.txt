@@ -1,0 +1,34 @@
+than they otherwise would, enabling them to generate higher forces
+for longer times.
+Joint Angular Velocity
+There are three basic types of muscle action, during which forces are
+generated within the muscle that pull the muscle’s ends toward each
+other if not prevented from doing so by external forces. The term
+muscle action is preferable to contraction, because the latter means
+“shortening,” which does not accurately describe two of the three
+muscle actions.
+In a concentric muscle action, the muscle shortens
+because the contractile force is greater than the resistive
+force. The forces generated within the muscle and acting to
+shorten it are greater than the external forces acting at its
+tendons to stretch it. Swimming and cycling involve concentric
+muscle action almost exclusively.
+In an eccentric muscle action, the muscle lengthens
+because the contractile force is less than the resistive force.
+The forces generated within the muscle and acting to shorten
+it are less than the external forces acting at its tendons to
+stretch it (which increases the risk of soreness and injury).
+This occurs during the lowering phase of any resistance
+exercise. During standard resistance training, the eccentric
+force exerted by the muscle keeps the weight from being
+accelerated downward by gravitational force. Thus, the weight
+moves steadily downward rather than picking up speed and
+contacting the floor or the athlete’s body.
+In an isometric muscle action, the muscle length does not
+change, because the contractile force is equal to the resistive
+force. The forces generated within the muscle and acting to
+shorten it are equal to the external forces acting at its tendons
+to stretch it. During a sit-up with the trunk held straight, the
+abdominal muscles act isometrically to maintain the rigidity of
+the trunk, while the hip flexors carry out the sit-up movement.
+144

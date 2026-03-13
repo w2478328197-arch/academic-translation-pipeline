@@ -1,0 +1,47 @@
+spindles are stretched, they send a signal to the ventral root of the
+spinal cord via the type Ia afferent nerve fibers.
+TABLE 19.1 Stretch-Shortening Cycle
+Phase
+Action
+Physiological event
+I—Eccentric
+Stretch of the agonist
+muscle
+Elastic energy is stored in the series elastic
+component.
+Muscle spindles are stimulated.
+II—
+Amortization
+Pause between phases I
+and III
+Type Ia afferent nerves synapse with alpha
+motor neurons.
+Alpha motor neurons transmit signals to
+agonist muscle group.
+III—
+Concentric
+Shortening of agonist
+muscle fibers
+Elastic energy is released from the series
+elastic component.
+Alpha motor neurons stimulate the agonist
+muscle group.
+To visualize the eccentric phase, consider a countermovement
+vertical jump. Stretch reflex latency (the time from reflex
+stimulation to the beginning of agonist muscle activity) largely
+depends on nerve conduction velocities and therefore increases with
+greater distances from the spinal cord (i.e., longer nerves) (40, 42,
+44, 54). Quadriceps and gastrocnemius stretch reflexes typically
+range from 20 to 30 milliseconds and from 30 to 45 milliseconds,
+respectively (40, 53).
+Phase II is the time between the eccentric and concentric phases
+and is termed the amortization (or coupling) phase. This is the
+time from the end of the eccentric phase to the initiation of the
+concentric muscle action. There is a delay between the eccentric and
+concentric muscle actions during which type Ia afferent nerves
+synapse with the alpha motor neurons in the ventral root of the
+spinal cord. The alpha motor neurons then transmit signals to the
+agonist muscle group. This phase of the SSC is perhaps the most
+crucial in allowing greater power production; its duration must be
+kept short. If the amortization phase lasts too long, the energy
+1265

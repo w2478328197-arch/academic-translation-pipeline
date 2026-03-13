@@ -1,0 +1,19 @@
+FIGURE 2.8 Changes in joint angle with equal increments of muscle shortening when the
+tendon is inserted (a) closer to and (b) farther from the joint center. Configuration b has a
+larger moment arm and thus greater torque for a given muscle force but less rotation per
+unit of muscle contraction and thus slower movement speed.
+To produce a given joint rotational velocity, a muscle inserted
+farther from the joint center must contract at a higher speed, at
+which it can generate less force due to the inverse force–velocity
+relationship of muscle (45, 46) described later in this chapter.
+Therefore, such a tendon arrangement reduces the muscle’s force
+capability during faster movements.
+One can see how relatively subtle individual differences in
+structure can result in various advantages and disadvantages.
+Although these skeletal arrangements are nonmodifiable, it is
+important to understand that for slower movements, as in
+powerlifting, tendon insertion farther from the joint than normal can
+be advantageous, while for athletic activities occurring at high
+speeds, such as hitting a tennis ball, such an arrangement can be
+disadvantageous.
+120

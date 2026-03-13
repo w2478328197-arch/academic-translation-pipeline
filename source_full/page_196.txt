@@ -1,0 +1,11 @@
+FIGURE 3.6 The Krebs cycle. CoA = coenzyme A; FAD2+, FADH, FADH2 = flavin adenine
+dinucleotide; GDP = guanine diphosphate; GTP = guanine triphosphate; NAD+, NADH =
+nicotinamide adenine dinucleotide.
+Also produced from the two pyruvate molecules subsequent to
+the production of one molecule of glucose are six molecules of
+NADH + H+ and two molecules of reduced flavin adenine
+dinucleotide (FADH2). These molecules transport hydrogen atoms
+to the ETC to be used to produce ATP from ADP (22, 109). The ETC
+uses the NADH + H+ and FADH2 molecules to rephosphorylate ADP
+to ATP (figure 3.7).
+196

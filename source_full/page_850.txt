@@ -1,0 +1,146 @@
+College soccer—women (154)
+51
+3.38 ± 0.17
+5.99 ± 0.29
+High school soccer—women (154)
+83
+3.33 ± 0.15
+5.94 ± 0.28
+College lacrosse—women (154)
+79
+3.37 ± 0.14
+5.97 ± 0.27
+NCAA Division I college soccer—women (97)
+15
+2.31 ± 0.25
+Under 16 rugby league—men (149)
+67
+1.82 ± 0.07
+3.13 ± 0.00
+Under 17 rugby league—men (149)
+50
+1.81 ± 0.06
+3.12 ± 0.10
+Under 18 rugby league—men (149)
+56
+1.80 ± 0.06
+3.09 ± 0.10
+Under 19 rugby league—men (149)
+89
+1.82 ± 0.07
+3.11 ± 0.12
+Under 20 rugby league—men (149)
+22
+1.79 ± 0.06
+3.07 ± 0.12
+National soccer—men (149)
+17
+1.82 ± 0.30
+3.00 ± 0.30
+National rugby league—men (7)
+20
+1.61 ± 0.06
+5.15 ± 0.02
+State rugby league—men (7)
+20
+1.66 ± 0.06
+5.13 ± 0.02
+National rugby league forwards—men (30)
+12
+1.66 ± 0.20
+3.00 ± 0.08
+National rugby league backs—men (30)
+6
+1.65 ± 0.15
+2.91 ± 0.10
+State rugby league—men (50)
+26
+2.06 ± 0.18
+3.36 ± 0.23
+5.83 ± 0.31
+National rugby union—men (33)
+30
+1.69 ± 0.10
+2.93 ± 0.20
+National rugby league forwards—men (102)
+63
+5.27 ± 0.19
+National rugby league backs—men (102)
+55
+5.08 ± 0.20
+National badminton—men (155)
+12
+1.94 ± 0.18
+3.35 ± 0.30
+National rugby league—men (48)
+58
+1.73 ± 0.07
+5.25 ± 0.17
+Under 18 elite rugby league—men (50)
+28
+1.81 ± 0.08
+3.11 ± 0.12
+5.56 ± 0.22
+Under 18 sub-elite rugby league—men (50)
+36
+1.94 ± 0.11
+3.28 ± 0.18
+5.83 ± 0.35
+High school rugby league—men (147)
+302
+1.88 ± 0.12
+3.23 ± 0.16
+High school rugby league—men (147)
+870
+1.90 ± 0.12
+3.27 ± 0.19
+Junior national volleyball—women (47)
+20
+1.90 ± 0.01
+Junior national volleyball—men (47)
+14
+1.80 ± 0.02
+Under 18 Australian rules football—men (164)
+177
+3.13 ± 0.09
+NCAA Division III college soccer—men (93)
+12
+1.96 ± 0.11
+5.79 ± 0.31
+NCAA Division I college soccer—men (136)
+27
+1.70 ± 0.10
+4.90 ± 0.20
+National Australian rules football—men (163)
+35
+1.89 ± 0.07
+3.13 ± 0.10
+5.40 ± 0.17
+National Australian rules football—men (163)
+30
+1.70 ± 0.06
+2.94 ± 0.08
+National soccer—women (65)
+85
+1.67 ± 0.07
+National soccer—women (65)
+47
+1.70 ± 0.07
+National soccer—women (1)
+17
+3.17 ± 0.03
+National soccer—men (141)
+270
+2.27 ± 0.40
+3.38 ± 0.70
+Under 18 Gaelic football—men (34)
+265
+3.22 ± 0.15
+Group, sport, or position
+Number of athletes
+Time (s)
+10 yd
+20 yd
+40 yd
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+850

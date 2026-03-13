@@ -1,0 +1,23 @@
+FIGURE 14.8 (a) Starting position and (b) maximum height of the vertical jump using the Vertec.
+   9  SQUAT JUMP (STATIC VERTICAL JUMP)
+The equipment needed and the personnel required for the squat (static) vertical jump are the same
+as the vertical jump with a countermovement.
+Procedure
+1. The test procedures are essentially the same as for the vertical jump, except that the
+countermovement is removed. Begin with the athlete standing on a calibrated, zeroed force
+platform. (Note: The squat jump and vertical jump with countermovement can also be tested
+using a switch or contact mat system (figure 14.9) [158], which estimates jump height [51]
+but cannot measure force outputs.)
+2. The athlete descends into a squat position (knee angle approximately 110 degrees) and holds
+this position for 2 to 3 seconds before jumping vertically, keeping hands fixed on hips.
+3. The takeoff and landing positions, as well as jumping strategy, should be the same for each
+trial. Specifically, the tester should ensure there is no countermovement (dip) at the start of
+the jump, both through visual observation and, where a force plate is used, by assessing the
+force–time curve.
+4. The best of three trials is recorded. The ratio of the vertical jump height with
+countermovement to squat jump height can be calculated as the eccentric utilization ratio (99).
+5. Figure 14.10 shows an example of how the vertical ground reaction forces change across the
+three phases of a static vertical jump when measured with a force plate testing system.
+Note: Descriptive data for the static vertical jump are presented in table 14.10 near the end of the
+chapter.
+788

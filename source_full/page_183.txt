@@ -1,0 +1,33 @@
+Control of the Phosphagen System
+The phosphagen system reactions (often represented by equations
+3.1, 3.2, and 3.3) are largely controlled by the law of mass action
+or the mass action effect (109). The law of mass action states
+that the concentrations of reactants or products (or both) in solution
+will drive the direction of the reactions. With enzyme-mediated
+reactions, such as the reactions of the phosphagen system, the rate
+of product formation is greatly influenced by the reactant
+concentrations. This is denoted in equations 3.1, 3.2, and 3.3 by the
+two-way arrow between reactants and products. For example, as
+ATP is hydrolyzed to yield the energy necessary for exercise
+(equation 3.1), there is a transient increase in ADP concentrations
+(as well as Pi) in the sarcolemma. This will increase the rate of
+creatine kinase and adenylate kinase reaction (equations 3.2 and
+3.3) to replenish the ATP supply. The process will continue until the
+exercise ceases or the intensity reduces such that it does not deplete
+CP stores and thus glycolysis or the oxidative system can become
+the primary supplier of ATP and rephosphorylate the free creatine
+(equation 3.2) (37). At this point, the sarcoplasmic concentration of
+ATP will remain steady or increase, which will slow down or reverse
+the directions of the creatine kinase and adenylate kinase reactions.
+As a result, equations 3.1, 3.2, and 3.3 are often referred to as
+near-equilibrium reactions that proceed in a direction dictated by
+the concentrations of the reactants due to the law of mass action.
+Glycolytic System
+Glycolysis is the breakdown of carbohydrate—either as glycogen
+stored in the muscle or glucose delivered via the blood—to
+resynthesize ATP (22, 145). The process of glycolysis involves
+multiple enzymatically catalyzed reactions (figure 3.2). As a result,
+the ATP resynthesis rate during glycolysis is not as rapid as with the
+single-step phosphagen system; however, the capacity to produce
+ATP is much higher due to a larger supply of glycogen and glucose
+183

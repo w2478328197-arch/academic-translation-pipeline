@@ -1,0 +1,30 @@
+scores. To get an accurate measure of improvement, the same
+scorer should test a group at the beginning and the end of the
+training period. If there are two scorers and the scorer at the
+beginning is more or less lenient than the scorer at the end, the
+resulting measurements may be worthless for comparative purposes.
+Consider a situation in which an athlete is tested in the squat. If the
+pretest scorer is more lenient (requiring less depth on the squat)
+than the posttest scorer, the athlete may achieve a lower test score
+on the posttest despite having made a significant improvement in
+strength.
+Sources of interrater differences include variations in calibrating
+testing devices, preparing athletes, and running the test. Different
+testers may motivate athletes to different degrees, based on factors
+such as personality, status, physical appearance, demeanor, and sex.
+A common scenario that increases interrater variability occurs when
+the strength and conditioning professional tests some of the athletes
+while an assistant tests others. The athletes may be inspired to do
+better on the tests administered by the strength and conditioning
+professional.
+The Scientific Process
+Strength and conditioning professionals should establish a sound scientific process
+when it comes to selecting, administering, interpreting, and applying physical tests
+with their athletes. The scientific process of testing should begin with identifying
+clear questions that physical testing can answer, based on observations specific to
+the context of the athlete and his or her sport. Without establishing clear questions
+(the rationale) for physical testing, there is a risk of testing athletes for the sake of
+it, which is both inefficient and potentially unethical. A proposed framework for
+scientific process of physical test selection, with an example of a common
+performance question, is shown in figure 13.1.
+741

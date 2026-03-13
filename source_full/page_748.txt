@@ -1,0 +1,58 @@
+Physical
+characteristic
+Test name
+Sport
+application
+examples
+Description
+strength
+press or bench pull)
+powerlifting
+maximum weight that can be
+lifted once
+1RM for the lower
+body (e.g., back
+squat, front squat,
+deadlift)
+American
+football, rugby,
+powerlifting
+Measures maximal lower body
+strength by determining the
+maximum weight that can be
+lifted once
+Isometric mid-thigh
+pull
+Weightlifting,
+track and field,
+American
+football, rugby
+Assesses maximal isometric
+strength by pulling on an
+immovable bar
+Speed
+40-yard (37 m)
+sprint
+American
+football, rugby
+Measures sprinting speed over a
+specific distance
+Biomechanical Movement Pattern
+Specificity
+All else being equal, the more similar the test is to an important
+movement in the sport, the better. Sports differ in their physical
+demands. For example, the vertical jump test is very specific to
+basketball and volleyball, both of which involve vertical jumping
+during play, but less relevant to hockey, which does not involve
+vertical jumping. Positions within a sport differ as well. An American
+football defensive lineman needs pushing strength to move opposing
+linemen out of the way and 5- to 15-yard (5 to 14 m) sprint speed to
+reach the opposing quarterback, while a wide receiver depends less
+on pushing strength but must be able to sprint 30 to 100 yards (27-
+91 m) quickly. Thus, the bench press and 10-yard (9 m) sprint test
+would be more relevant to the lineman, while sprint tests of 30 to
+100 yards (27-91 m) would be more relevant to the wide receiver.
+For a test to be valid, it must emulate the energy
+requirements and important movements of the sport for
+which ability is being tested.
+748

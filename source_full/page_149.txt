@@ -1,0 +1,34 @@
+its actual weight. A balance scale determines only the object’s mass,
+so its weight (Fg) must be calculated using equation 2.8 if a spring or
+electronic scale is not available.
+Popular terminology for weight and mass is often incorrect and
+used interchangeably with correct terminology. As explained earlier,
+the correct measurement unit for mass, which describes the load
+presented to us by, for example, barbells and dumbbells, is the
+kilogram (kg). Therefore, a barbell loaded to 85 kilograms should be
+referred to as “the barbell has a mass of 85 kilograms” or “the
+barbell is 60 kilograms” without referring to weight. Use of pounds
+as a measurement unit of mass is incorrect because it is a
+measurement unit once used for force. However, we know that the
+correct measurement unit for both weight and force is the newton
+and that this describes the interaction of mass and gravity (table 2.1,
+page 37). While the weight of the 85-kilogram barbell on planet
+Earth is 833.85 newtons, on the moon its weight would be 137.7
+newtons, making it feel more like 14 kilograms, even though it did
+not physically change.
+Applications to Resistance Training
+The gravitational force on an object always acts downward. Since,
+by definition, the moment arm by which a force produces torque is
+perpendicular to the line of action of the force, the moment arm of a
+weight is always horizontal. Thus, torque due to an object’s weight is
+the product of the weight and the length from the weight to the axis
+of rotation (joint). During an exercise, although the weight does not
+change, the length between the weight and a given joint axis can
+change constantly. When the weight is horizontally closer to the
+joint, it exerts less resistive torque; when it is horizontally farther
+from a joint, it exerts more resistive torque. For example, in the
+biceps curl, the length element is greatest when the forearm is
+horizontal. Thus, in that position the athlete must exert the greatest
+muscle torque to support the weight. The moment arm decreases as
+the forearm rotates either upward or downward away from the
+149

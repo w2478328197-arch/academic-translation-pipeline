@@ -1,0 +1,27 @@
+FIGURE 14.33 Z-score column chart representing standardized test scores across different fitness tests for an individual athlete.
+The zero represents the team average.
+Percentile Rank An individual’s percentile rank is the percentage of test takers scoring below
+that individual. As in calculation of the median, percentile ranking requires arranging scores
+ordinally (lowest to highest). For example, if an athlete is ranked in the 75th percentile, 75% of the
+group produced scores below that athlete’s score. Norms based on large samples are sometimes
+expressed in evenly spaced percentiles. Several examples of percentile rank tables are shown in the
+tables near the end of the chapter.
+Inferential Versus Magnitude Statistics
+The use of inferential statistics allows one to draw general conclusions about a population from
+information collected in a population sample. For example, if a boys’ 9th-grade gym class is put
+through a battery of tests and it is assumed that the class (sample) is representative of all the 9th-
+grade boys in the school (the population), the results of these tests can be used to make inferences
+about the population as a whole. A basic assumption of inferential statistics is that the sample is
+truly representative of the population (27).
+Magnitude statistics can provide a more useful approach for practitioners because it allows for
+interpretation of the clinical significance of fitness testing (75). To describe and evaluate the
+magnitude of change in a fitness test, measures such as smallest worthwhile change and effect size
+are important.
+Smallest worthwhile change refers to the ability of a test to detect the smallest practically
+important change in performance. The ability to track changes with a fitness test depends on the
+validity and reliability of that test. The smallest worthwhile change can be determined in a number
+of ways, but it is typically calculated as 0.2 of the between-subjects standard deviation (75). For
+example, if the standard deviation for a vertical jump test is 10 centimeters in a group of female
+athletes, this would mean that the smallest worthwhile change for this group of athletes is 2
+centimeters (0.2 × 10 cm).
+824

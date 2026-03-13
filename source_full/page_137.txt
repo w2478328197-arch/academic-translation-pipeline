@@ -1,0 +1,34 @@
+2.76 radians (158 degrees) and with the above information, the
+torque required to start the curl can be calculated using equation
+2.7:
+(25 kg ∙ g) × 0.30 m (elbow to dumbbell center) × sin(2.76 radians) = 27.4
+N ∙ m    (2.7)
+This means that 124.3 joules of angular work is performed over
+1.283 seconds at an angular power output of 96.9 watts. As earlier,
+we can manipulate the angular work that is performed by changing
+the mass of the object being moved, the range of motion, or both.
+With angular power, time provides another element that can be
+manipulated, because performing more work does not necessarily
+mean a higher power output unless any increase in performance
+duration is minimized.
+Impulse also has a rotational equivalent (angular impulse), which
+is the product of torque and time (τ × Δt, where τ refers to torque,
+and Δt refers to the duration of the phase of interest). As with the
+linear impulse–momentum relationship, angular impulse is directly
+proportional to the change in angular momentum (ΔL), and because
+mass tends to remain constant, we can simplify this to angular
+impulse being proportional to a change in angular velocity (Δω). As
+with linear impulse, to move (rotate) faster, more (angular) impulse
+must be applied, and we know that this can be achieved by applying
+more torque, applying the same torque for longer, or a combination
+of both.
+Strength Versus Power
+The discrepancy between the common and scientific definitions of
+power has led to misunderstandings. For example, in the sport of
+powerlifting, which involves high forces but relatively low movement
+speeds, less mechanical power is produced than in several other
+sports, including weightlifting (8, 14). Despite the discrepancy, the
+sport of powerlifting is unlikely to be renamed. In all other contexts,
+the strength and conditioning professional should use the word
+power only in its scientific sense to avoid ambiguity and instead
+137

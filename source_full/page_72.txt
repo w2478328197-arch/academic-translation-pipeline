@@ -1,0 +1,22 @@
+FIGURE 1.12 The electrical conduction system of the heart.
+The inherent rhythmicity and conduction properties of the
+myocardium (heart muscle) are influenced by the cardiovascular
+center of the medulla, which transmits signals to the heart through
+the sympathetic and parasympathetic nervous systems, both
+of which are components of the autonomic nervous system. The
+atria are supplied with a large number of both sympathetic and
+parasympathetic 
+neurons, 
+whereas 
+the 
+ventricles 
+receive
+sympathetic fibers almost exclusively. Stimulation of the sympathetic
+nerves accelerates depolarization of the SA node (the chronotropic
+effect), which causes the heart to beat faster. Stimulation of the
+parasympathetic nervous system slows the rate of SA node
+discharge, which slows the heart rate. The resting heart rate
+normally ranges from 60 to 100 beats/min; fewer than 60 beats/min
+is called bradycardia, and more than 100 beats/min is called
+tachycardia.
+72

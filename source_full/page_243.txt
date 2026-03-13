@@ -1,0 +1,49 @@
+Categories of Hormones
+Hormones can be classified into three main categories based on their
+molecular structure: steroid, peptide (or polypeptide), and amine
+hormones.
+Steroid Hormone Interactions
+Steroid hormones, including cortisol, testosterone, and estradiol
+produced by the adrenal cortex and/or gonads, can diffuse across
+cell membranes due to their lipophilic (fat-soluble) nature. They
+engage with specific receptors inside the cell to form a hormone–
+receptor 
+complex 
+(H-RC). 
+This 
+complex 
+undergoes 
+a
+conformational change, activates, and pairs with another H-RC. It
+then moves to the nucleus, interacts with the DNA, and promotes
+the transcription process for specific proteins by “unzipping” DNA
+and identifying regulatory elements of the targeted gene (18, 117).
+The resulting mRNA is then translated by ribosomes in the
+sarcoplasm into the intended proteins. The steroid hormone–induced
+protein synthesis process is depicted in figure 4.3.
+Testosterone’s influence on muscle cells encompasses more than
+its genomic effects. In addition to the primary nuclear receptor, a
+membrane receptor for testosterone has also been described in
+detail (128). Such a membrane receptor allows testosterone to affect
+the cell through rapid and nongenomic interactions (i.e., those that
+do not involve DNA transcription in the nuclei) within various other
+cellular compartments. These interactions play a crucial role in
+muscle adaptation, recovery, and growth by facilitating the
+production 
+of 
+essential 
+contractile 
+and 
+structural 
+proteins,
+modulating calcium flux in muscle cells, altering membrane fluidity,
+and activating key signaling pathways (e.g., the MAPK/ERK
+pathway). Such nongenomic actions underscore testosterone’s
+multifaceted 
+role 
+in 
+muscle 
+development. 
+Understanding
+testosterone’s genomic and nongenomic effects is vital for a
+243

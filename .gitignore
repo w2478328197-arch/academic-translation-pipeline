@@ -1,0 +1,9 @@
+
+node_modules/
+.DS_Store
+output/*.pdf
+*.log
+page_snapshots/
+source_full_chapter1/
+source_chapter5_fresh/
+full_book.html

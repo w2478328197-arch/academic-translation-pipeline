@@ -1,0 +1,11 @@
+trunk extension. The rotation of the trunk should be decelerated and
+then rotated in the opposite direction to immediately return the ball
+to the partner.
+Note: The force used to return the ball to the partner should come
+predominantly from the abdominal muscles and trunk rotation.
+COMMON ERRORS
+Not rotating sufficiently to optimize the SSC within the
+trunk musculature
+Not keeping the foot in contact with the ground,
+reducing the stable base from which to exert force
+1393

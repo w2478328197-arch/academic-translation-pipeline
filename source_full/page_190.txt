@@ -1,0 +1,32 @@
+Glycolysis Leading to the Krebs Cycle
+If oxygen is present in sufficient quantities in the mitochondria
+(specialized cellular organelles where the reactions of aerobic
+metabolism occur), the end product of glycolysis, pyruvate, is not
+converted to lactate but is transported into the mitochondria. Also
+transported are two molecules of reduced nicotinamide adenine
+dinucleotide (NADH) produced during glycolytic reactions
+(reduced refers to the added hydrogen). When pyruvate enters the
+mitochondria, it is converted to acetyl-CoA (CoA stands for
+coenzyme A) by the pyruvate dehydrogenase complex, resulting in
+the loss of a carbon as CO2. Acetyl-CoA can then enter the Krebs
+cycle for further ATP resynthesis. The NADH molecules drop off H+ at
+the electron transport chain, where they can also be used to
+resynthesize ATP.
+The net reaction for glycolysis when pyruvate is shuttled to the
+mitochondria may be summarized as follows:
+Glucose + 2Pi + 2ADP + 2NAD+ → 2Pyruvate + 2ATP + 2NADH + 2H2O    
+(3.5)
+Energy Yield of Glycolysis
+There are two primary mechanisms for resynthesizing ATP during
+metabolism:
+1. Substrate-level phosphorylation
+2. Oxidative phosphorylation
+Phosphorylation is the process of adding a Pi to another
+molecule. For example, ADP + Pi → ATP is the phosphorylation of
+ADP to ATP. Oxidative phosphorylation refers to the resynthesis
+of ATP in the electron transport chain (ETC). In contrast,
+substrate-level phosphorylation refers to the direct resynthesis
+of ATP from ADP during a single reaction in the metabolic pathways.
+To illustrate, in glycolysis two reactions result in substrate-level
+phosphorylation of ADP to ATP (42):
+190

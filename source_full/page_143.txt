@@ -1,0 +1,20 @@
+figures 2.2, 2.3, and 2.4 (pages 29-30). Additional factors include
+the type of exercise (isotonic, isometric, and so on), the body joint in
+question, the muscles used at that joint, and the speed of
+contraction (13).
+FIGURE 2.12 A schematic of the interaction between actin, myosin, and titin filaments
+when the muscle is at its resting length and when it is contracted or stretched. Muscle force
+capability is greatest when the muscle is at its resting length because of increased
+opportunity for actin–myosin crossbridges, while titin contributes to force production and
+alignment during eccentric muscle actions beyond resting length.
+Muscle Contraction Velocity
+Classic experiments by A.V. Hill (25, 35) on isolated animal muscle
+showed that the force capability of muscle declines as the velocity of
+contraction increases. The relationship is not linear; the decline in
+force capability is steepest over the lower range of movement
+speeds (figure 2.13; 30). Human movement technique can make the
+best of this relationship. For example, as a vertical jump begins, the
+arms swing upward, thereby exerting downward force on the body
+at the shoulders, slowing the upward movement of the body, and
+forcing the hip and knee extensor muscles to contract more slowly
+143

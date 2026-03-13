@@ -1,0 +1,18 @@
+(0.23-0.25 s) (7) or a COD movement (~0.15-0.6 s dependent on
+angle) (8, 49, 64, 36) exceeds the typical ground contact time of
+both the acceleration phase of sprinting (0.17-0.2 s) (4) and the
+maximal-velocity phase of sprinting (0.09-0.11 s) (104, 105). In the
+context of COD, as the intended angle of direction change (i.e.,
+deflection of center of mass) increases, the ground contact time of
+the main execution plant foot typically increases, attributed to the
+greater braking force, negative work (i.e., knee flexion), and
+deceleration demands associated when having to reduce momentum
+with sharper directional changes (36). As a result, this prolongs the
+contact time to increase braking impulse to reduce momentum along
+the original direction followed by propulsive impulse to enable
+acceleration toward the new intended direction of travel. In view of
+this, COD actions <45 degrees generally can be considered fast SSC
+activities, whereas direction changes >45 degrees generally can be
+considered slower SSC activities, though this depends on entry
+velocity and an athlete’s physical capacity (36).
+1412

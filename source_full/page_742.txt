@@ -1,0 +1,19 @@
+Figure 13.1 A proposed framework for the scientific process of physical test
+selection.
+Intrarater variability is the lack of consistent scores by a given
+tester. This differs from interrater reliability, which refers to the
+degree of agreement between different testers. For example, a
+strength and conditioning professional eager to see improvement
+may unintentionally be more lenient on a posttest than on a pretest.
+Other causes of intrarater variability include inadequate training;
+inattentiveness; lack of concentration; or failure to follow
+standardized procedures for device calibration, athlete preparation,
+test administration, or test scoring. To avoid such problems, accurate
+and consistent athletic testing should be a priority for all strength
+and conditioning professionals.
+Finally, sometimes the test itself might fail to provide consistent
+results. This may occur if a physical performance test requires a
+technique in which the athlete has not developed consistency. More
+technique-intensive tests generally exhibit greater variability in
+results and require more pretest practice to produce consistency.
+742

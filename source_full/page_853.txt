@@ -1,0 +1,125 @@
+18-60
+Female
+(4.81/Db) − 4.34
+1.108
+Japanese Native
+18-48
+Male
+(4.97/Db) − 4.52
+1.099
+Female
+(4.76/Db) − 4.28
+1.111
+61-78
+Male
+(4.87/Db) − 4.41
+1.105
+Female
+(4.95/Db) − 4.50
+1.100
+Singaporean (Chinese, Indian, Malay)
+Male
+(4.94/Db) − 4.48
+1.102
+Female
+(4.84/Db) − 4.37
+1.107
+White
+8-12
+Male
+(5.27/Db) − 4.85
+1.086
+Female
+(5.27/Db) − 4.85
+1.086
+13-17
+Male
+(5.12/Db) − 4.69
+1.092
+Female
+(5.19/Db) − 4.76
+1.090
+18-59
+Male
+(4.95/Db) − 4.50
+1.100
+Female
+(4.96/Db) − 4.51
+1.101
+60-90
+Male
+(4.97/Db) − 4.52
+1.099
+Female
+(5.02/Db) − 4.57
+1.098
+Hispanic
+20-40
+Male
+NA
+NA
+Female
+(4.87/Db) − 4.41
+1.105
+ATHLETES
+Resistance trained
+24 ± 4
+Male
+(5.21/Db) − 4.78
+1.089
+35 ± 6
+Female
+(4.97/Db) − 4.52
+1.099
+Aerobic endurance trained
+21 ± 2
+Male
+(5.03/Db) − 4.59
+1.097
+21 ± 4
+Female
+(4.95/Db) − 4.50
+1.100
+All sports
+18-22
+Male
+(5.12/Db) − 4.68
+1.093
+18-22
+Female
+(4.97/Db) − 4.52
+1.099
+CLINICAL POPULATIONS
+Anorexia nervosa
+15-44
+Female
+(4.96/Db) − 4.51
+1.101
+Obesity
+17-62
+Female
+(4.95/Db) − 4.50
+1.100
+Spinal cord injury (paraplegic or quadriplegic)
+18-73
+Male
+(4.67/Db) − 4.18
+1.116
+Female
+(4.70/Db) − 4.22
+1.114
+FFBd = fat-free body density; Db = body density; %BF = percent body fat; NA = no data available for this population subgroup.
+aMultiply value by 100 to calculate %BF.
+bFFBd based on average values reported in selected research articles.
+Adapted by permission from A.L. Gibson, D.R. Wagner, and V.H. Heyward, Advanced Fitness Assessment and Exercise Prescription,
+9th ed. (Human Kinetics, 2025), 273.
+TABLE 14.37 Percent Body Fat Descriptive Data for Athletes in Various
+Sports
+Classification
+Typical percent body fat of athletes playing the
+sport
+Sport
+Males
+Females
+Data from D.C. Nieman, Fitness and Sports Medicine: A Health-Related Approach, 3rd ed. (Bull Pub. Co., 1995).
+853

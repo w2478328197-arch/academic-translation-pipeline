@@ -1,0 +1,42 @@
+glycolysis, but if pH continues to decrease significantly it will inhibit
+the rate of glycolysis.) However, the regulation of glycolysis (109) is
+more specifically influenced by the concentrations and turnover rates
+of three crucial glycolytic enzymes: hexokinase, PFK, and pyruvate
+kinase. All three are regulatory enzymes in glycolysis, because each
+has important allosteric (meaning “other site”) binding sites.
+Allosteric regulation occurs when the end product of a reaction or
+series of reactions feeds back to regulate the turnover rate of key
+enzymes in the metabolic pathways. Consequently, this process is
+also called end product regulation (87) or feedback regulation (61).
+Allosteric inhibition occurs when an end product binds to the
+regulatory enzyme and decreases its turnover rate and slows
+product formation. In contrast, allosteric activation occurs when
+an “activator” binds with the enzyme and increases its turnover rate.
+Hexokinase, which catalyzes the phosphorylation of glucose to
+glucose-6-phosphate, is allosterically inhibited by the concentration
+of glucose-6-phosphate in the sarcoplasm (61). Thus, the higher the
+concentration of glucose-6-phosphate, the more hexokinase will be
+inhibited. In addition, the phosphorylation of glucose commits it to
+the cell so that it cannot leave. Similarly, the PFK reaction (fructose-
+6-phosphate → fructose 1,6-bisphosphate) commits the cell to
+metabolizing 
+glucose 
+rather 
+than 
+storing 
+it 
+as 
+glycogen.
+Phosphofructokinase is the most important regulator of glycolysis
+even though it is the slowest reaction of the steps that makes up
+glycolysis because it is the bottleneck, or the rate-limiting step.
+ATP is an allosteric inhibitor of PFK; therefore, as intracellular ATP
+concentrations rise, PFK activity decreases and reduces the
+conversion of fructose-6-phosphate to fructose 1,6-bisphosphate
+and, subsequently, decreases activity of the glycolytic pathway.
+However, AMP is an allosteric activator of PFK and a powerful
+stimulator of glycolysis. Moreover, the ammonia produced during
+high-intensity exercise as a result of AMP or amino acid deamination
+(removing the amine group from the amino acid molecule) can also
+stimulate PFK. Pyruvate kinase catalyzes the conversion of
+192

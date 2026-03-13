@@ -1,0 +1,27 @@
+follow the technique described in chapter 16.
+3. From the measuring device, obtain the velocity of the barbell typically in meters per second,
+power measured in watts, and peak forces measured in newtons. Metrics may vary depending
+on the device used for testing or the individual purposes of the tester and athlete. As outlined
+earlier in the chapter, VBT data can be used to create a load–velocity profile.
+Note: Descriptive data for VBT are presented in table 14.13 near the end of the chapter.
+Anaerobic Capacity
+  14   300-YARD (274 M) SHUTTLE RUN
+Equipment
+A stopwatch with at least 0.1-second resolution
+Two parallel lines 25 yards (23 m) apart on a flat surface (figure 14.14)
+Personnel
+One timer, two line judges
+Procedure
+1. Pair off athletes of similar ability.
+2. Position two athletes immediately behind one line, facing the other line.
+3. On an auditory signal, the athletes sprint to the line 25 yards (23 m) away, making foot
+contact with it, then immediately sprint back to the first line. Six such round trips are made as
+fast as possible without stopping (6 × 50 yd = 300 yd [274 m]).
+4. On completion of the first trial, record both athletes’ times to the nearest 0.1 second and start
+a clock to time a 5-minute rest interval. As each pair of athletes completes the first trial, they
+may walk and stretch but must stay alert for the starting time on the second trial.
+5. After the rest period, the pair of athletes does another trial.
+6. The average of two trials is recorded to the nearest 0.1 second.
+Note: Descriptive data for the 300-yard (274 m) shuttle are presented in table 14.14 near the end
+of the chapter.
+794

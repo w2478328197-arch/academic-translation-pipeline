@@ -1,0 +1,114 @@
+Σ3SKF (triceps + suprailiac + thigh)
+White or
+anorexic
+Women
+18-55 years
+Db (g/cc)b =
+1.0994921
+− 0.0009929
+(Σ3SKF)
++ 0.0000023
+(Σ3SKF)2
+− 0.0001392 (age)
+Jackson et al.
+(82)
+Σ3SKF (chest + abdomen + thigh)
+White
+Men
+18-61 years
+Db (g/cc)b =
+1.109380
+− 0.0008267
+(Σ3SKF)
++ 0.0000016
+(Σ3SKF)2
+− 0.0002574 (age)
+Jackson and
+Pollock (82)
+Σ2SKF (triceps + calf)
+Black or white
+Boys
+6-17 years
+%BF = 0.735
+(Σ2SKF) + 1.0
+Slaughter et al.
+(137)
+Σ2SKF (triceps + calf)
+Black or white
+Girls
+6-17 years
+%BF = 0.610
+(Σ2SKF) + 5.1
+Slaughter et al.
+(137)
+Suprailiac, triceps
+Athletes
+Women
+High school
+and college age
+Db (g/cc)b = 1.0764
+− (0.00081 ×
+suprailiac)
+− (0.00088 ×
+triceps)
+Sloan and Weir
+(138)
+Thigh, subscapular
+Athletes
+Men
+High school
+and college age
+Db (g/cc)b = 1.1043
+− (0.00133 × thigh)
+− (0.00131 ×
+subscapular)
+Sloan and Weir
+(138)
+Σ3SKF (triceps + abdomen + thigh)
+Athletes
+Men or
+women
+18-34 years
+%BF = 8.997 +
+0.24658 (S3SKF)
+− 6.343 (genderc)
+− 1.998 (raced)
+Evans et al. (41)
+a∑SKF = sum of skinfolds (mm); Db = body density.
+bUse population-specific conversion formulas (see table 14.36) to calculate %BF from Db.
+cMale athletes = 1; female athletes = 0.
+dBlack athletes = 1; white athletes = 0.
+Adapted by permission from A.L. Gibson, D.R. Wagner, and V.H. Heyward, Advanced Fitness Assessment and Exercise Prescription,
+9th ed. (Human Kinetics, 2025), 273.
+TABLE 14.36 Population-Specific Two-Component Model Formulas for
+Converting Body Density to Percent Body Fat
+Population
+Age (yr)
+Sex
+%BFa
+FFBd (g· cc−1)b
+RACE OR ETHNICITY
+African American
+9-17
+Female
+(5.24/Db) − 4.82
+1.088
+19-45
+Male
+(4.86/Db) − 4.39
+1.106
+24-79
+Female
+(4.85/Db) − 4.39
+1.106
+American Indian
+18-62
+Male
+(4.97/Db) − 4.52
+1.099
+FFBd = fat-free body density; Db = body density; %BF = percent body fat; NA = no data available for this population subgroup.
+aMultiply value by 100 to calculate %BF.
+bFFBd based on average values reported in selected research articles.
+Adapted by permission from A.L. Gibson, D.R. Wagner, and V.H. Heyward, Advanced Fitness Assessment and Exercise Prescription,
+9th ed. (Human Kinetics, 2025), 273.
+852

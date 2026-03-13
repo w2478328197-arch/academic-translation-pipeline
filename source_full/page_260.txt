@@ -1,0 +1,26 @@
+Growth Hormone
+Growth hormone (GH) is produced in the pituitary gland by
+somatotroph cells, divided into two types based on their secretion
+patterns and the forms of GH. Band 1 somatotrophs generate the
+smaller, newly synthesized 22 kD molecular weight isoform of GH, a
+191 amino acid polypeptide. Conversely, band 2 somatotrophs
+produce aggregates of these smaller isoforms (e.g., two 22 kD units
+combining to form a 44 kD molecule), which are considered older
+and are potential GH storage forms (61). These aggregates can be
+released into the bloodstream, interacting with specific tissue
+receptors. For instance, aggregated GH binds to receptors in the
+tibial growth plate to stimulate bone growth. These different
+molecular weight variants target various tissues, including bone,
+muscle, liver, and immune cells, influencing glucose use, protein
+synthesis, lipolysis, collagen synthesis, and enhancing immune cell
+function.
+The presence of different GH isoforms in the blood can only be
+distinguished through various assays, with most studies focusing on
+the smaller 22 kD isoform using immunoassays. This focus has
+shaped much of our current understanding of GH’s role and function
+in the body, but the aggregated forms of GH might have greater
+biological potency and importance (61, 91). Figure 4.6 outlines the
+basic feedback mechanisms regulating the production of GH
+isoforms, highlighting the complex control the pituitary gland
+exercises over GH secretion.
+260

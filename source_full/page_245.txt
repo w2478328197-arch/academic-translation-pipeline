@@ -1,0 +1,15 @@
+FIGURE 4.3 A simplified model of steroid hormone action. The figure illustrates how
+steroid hormones like testosterone in skeletal muscle or dihydrotestosterone in sex-linked
+tissues migrate into target cells. Although the pathways for both hormones are represented,
+each targets only one specific cell type but they are shown together for clarity. Each
+hormone pathway leads to different physiological outcomes, emphasizing the selective
+nature of steroid–hormone interactions.
+Figure 4.4 depicts how a typical polypeptide hormone might
+interact with the cell nucleus through the cytokine-activated Janus
+kinase (JAK)/signal transducer and activator of the transcription
+(STAT) signaling pathway. The JAK/STAT pathway transmits signals
+from various polypeptide hormones into the cell. However, like
+testosterone, polypeptide hormones may also have nongenomic
+actions. For instance, GH stimulates lipolysis, thus sparing muscle
+glycogen during and after a workout (110).
+245

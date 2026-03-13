@@ -1,0 +1,88 @@
+TABLE 6.2 Physiological Variables in Aerobic
+Endurance Training
+Variable
+PREVIOUSLY
+UNTRAINED
+SUBJECTS
+HIGHLY TRAINED OR
+ELITE SUBJECTS
+Before
+After
+Male
+Female
+HEART RATE (BEATS/MIN)
+Resting (127, 135, 59)
+76.4
+57.0
+45
+51
+Maximal (127, 135, 165)
+192.8
+190.8
+196
+193.9
+STROKE VOLUME (ML)
+Resting (135, 169)
+79
+76
+147
+133
+Maximal (135, 169, 165)
+104
+120
+187
+129.6
+CARDIAC OUTPUT (L/MIN)
+Resting (135, 169, 149)
+5.7
+4.4
+8.2
+6.7
+Maximal (135, 169, 165)
+20.0
+22.8
+33.8
+23.5
+Heart volume (mL) (127, 135, 149)
+860
+895
+1104
+859
+BLOOD PRESSURE (MMHG) (127, 135)
+Resting (127, 135)
+131/75
+144/78
+112/75
+115/70
+Maximal (127, 127a, 135)
+204/81
+201/74
+188/77
+180/74
+PULMONARY VENTILATION (BODY TEMPERATURE [37 °C] AND PRESSURE
+[AMBIENT], SATURATED [47 MMHG]) (L/MIN)
+Resting (127, 135)
+10.9
+12.0
+11.8
+—
+Maximal (56a, 127, 135)
+128.7
+156.4
+164.4
+120
+ARTERIOVENOUS OXYGEN
+DIFFERENCE (ML/100 ML)
+Resting (165)
+5.8
+7.5
+—
+—
+Maximal (135, 169, 165)
+16.2
+17.1
+15.9
+17.6
+*Data are not from a training study; subjects were untrained or “good distance runners.”
+Data compiled by Carwyn Sharp and Kate Baldwin.
+361

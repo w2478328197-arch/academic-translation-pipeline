@@ -1,0 +1,34 @@
+ignored, so its biomechanical relevance is misunderstood. For
+example, many systems record data at 1,000 hertz, which means
+data are recorded every 1 millisecond (ms). Is the rate that work is
+performed over 1 millisecond relevant? Caution is urged when
+considering this approach, and unless there is a specific need to
+know the rate of work over a single sample, it should be ignored. For
+example, the maximum instantaneous power in the previous barbell
+overhead press example was 642.63 watts, which describes the work
+performed in moving the barbell 1 millimeter. Nowhere is this
+method more popular than in vertical jump research. Going back to
+the example of the 74-kilogram, 40-centimeter jumper, the work the
+athlete performs during the propulsion phase of the jump (from the
+lowest squat to takeoff) is 295.57 joules, the athlete performs this
+over 0.315 seconds, and so achieves 938.31 watts of power. The
+peak power achieved during the same propulsion phase was 2040.68
+watts, where the work performed involved 2 millimeters of
+displacement (of the jumper’s center of mass).
+We must mention an important limitation of using work and
+power to quantify movement performance. Both of these are scalar
+quantities, which means that they only provide a magnitude (how
+much) and cannot consider movement direction. Considering the
+importance of movement direction in sport and occupational
+performance, work and power should be used with this limitation in
+mind. Requiring nothing more than a tape measure and patience,
+practitioners can use work to quantify training load.
+Negative Work and Power
+When both force and movement are positive, both work and power
+will be positive too. In the earlier barbell pressing example, the lifter
+applies a positive force to push the barbell upward, so both force
+and movement are positive. However, while during the lowering
+phase of the exercise the force remains positive (to control the
+barbell’s descent), its movement is negative (because it is traveling
+downward). We can use equation 2.3 to calculate the work
+134

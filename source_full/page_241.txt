@@ -1,0 +1,27 @@
+Adaptation Limits and Receptor Sensitivity
+When a muscle fiber has reached its capacity for protein
+incorporation, or when a chronically elevated concentration of a
+hormone 
+causes 
+overstimulation, 
+receptors 
+may 
+become
+desensitized or unresponsive—a condition known as receptor
+downregulation; a classic example of this phenomenon is insulin
+resistance, which can be caused by chronically elevated circulating
+insulin concentrations. The reduced signal from the hormone
+following overstimulation signifies a reduced ability of the hormone
+to interact with its receptor or downregulation of the number of
+receptors, which can effectively stop further cellular responses and
+adaptations (37, 122). As such, receptors can adjust their affinity for
+binding, and the number of available receptors can vary. These
+changes affect cellular adaptation as significantly, if not more, as
+changes in hormone concentrations. For example, heavy resistance
+overtraining can lead to a downregulation of beta-2 receptors,
+affecting their interaction with epinephrine and reducing muscle
+contractile force (37). Exploring how receptor characteristics alter in
+response to training and affect muscle adaptation is key to
+understanding the complex interactions between hormones and
+exercise.
+241

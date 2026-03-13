@@ -1,0 +1,33 @@
+Overcoming Friction: The Impact of Load
+on Static and Dynamic Friction
+Friction is essential for movement control and provides resistance in sled-based
+training for horizontal pushing and pulling. Researchers measured the horizontal
+force needed to overcome static (μs) and dynamic (μd) friction for sled loads of
+44.8, 90, and 136.2 kilograms (98.8, 198.4, 300.3 lb) (3). They found mean forces
+to overcome μs were 206, 374, and 514 N, calculating μs (horizontal force ÷ sled
+load, mass × g) as 0.47, 0.42, and 0.39. For μd, forces were 154, 289, and 415
+newtons, calculating μd as 0.35, 0.33, and 0.31. Knowing μs and μd enables us to
+calculate the force needed to start and maintain sled movement; this is analogous
+to barbell mass in traditional resistance exercise. These ratios depend on the load
+and surface conditions.
+Friction
+Friction is the force that resists sliding and is encountered when
+one attempts to move an object whose surface is pressed against
+the surface of another object. Exercise devices that use friction as
+the main source of resistance include belt- or brake pad–resisted
+cycle ergometers and wrist curl devices, but an element of friction
+exists and contributes to exercise load from weight stack machines.
+For such devices,
+  FR = k × FN    (2.9)
+where FR is the resistive force; k is the coefficient of friction for the
+two contact surfaces; and FN is the normal force, which presses the
+objects against each other (perpendicular to desired movement
+direction).
+The coefficients of friction for initiating and for maintaining
+movement are different. All else being equal, it takes more force to
+initiate movement between two surfaces in contact than to maintain
+previously initiated movement. Thus, a friction-resisted exercise
+device requires a relatively high force to initiate movement and a
+relatively constant force after movement has begun, no matter what
+the movement speed. Resistance provided by such devices is
+156

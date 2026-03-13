@@ -1,0 +1,39 @@
+actual 1RM (directly tested),
+estimated 1RM from an xRM test (e.g., a 10RM), or
+xRM based on the number of repetitions planned for that exercise (the
+“goal” repetitions; e.g., 5 repetitions per set).
+Once the actual 1RM is measured or estimated, the athlete’s training load is
+calculated as a percentage of the 1RM. Alternatively, a xRM test may be
+performed based on goal repetitions, thereby eliminating computations or
+estimations. In many cases, the strength and conditioning professional will use a
+variety of testing options depending on the exercises selected and the athlete’s
+training background. A common strategy for testing sufficiently conditioned
+athletes is to conduct a 1RM test in several core exercises and use xRM testing
+for assistance exercises.
+Testing the 1RM
+To assign training loads based on a percentage of the 1RM, the strength and
+conditioning professional must first determine the athlete’s 1RM. This method of
+assessment is typically reserved for resistance-trained athletes who are classified
+as intermediate or advanced and have exercise technique experience in the
+exercises being tested; however, 1RM testing can be safely performed with
+youth (19), adolescents (49), inexperienced adults (24), and older adults (127).
+Individuals who are untrained, inexperienced, injured, or medically supervised
+may not be appropriate participants for 1RM testing. One-repetition maximum
+testing requires an adequate training status and lifting experience, because the
+assessment of maximal strength places significant stress on the involved
+muscles, connective tissues, and joints, although this has been shown to be
+appropriate and reliable in youth and collegiate athletes with approximately 6
+months’ experience in the power clean and back squat (24, 49). However, it may
+be more appropriate to complete a 3RM test instead of a maximal 1RM test
+because ignoring an athlete’s training status and exercise technique experience
+diminishes the safety and accuracy of 1RM test results.
+When selecting exercises for 1RM testing, the strength and conditioning
+professional should choose core exercises, because the large muscle groups and
+multiple joints are better able to handle the heavy loads. Despite this guideline,
+an exercise should not be selected for 1RM testing if it cannot provide valid and
+reliable data (i.e., does not accurately and consistently assess maximal muscular
+strength). For instance, the large upper back musculature and multiple joints
+involved in the bent-over row exercise can probably tolerate the loads for a 1RM
+test, but maintaining a correct body position throughout testing would be
+extremely difficult. The weaker stabilizing muscles of the lower back might
+1226

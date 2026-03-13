@@ -1,0 +1,46 @@
+Period
+Duration
+Description
+Multiyear training
+plans
+2-4 years
+This contains interlinked annual training plans; the most common
+multiyear plan is the quadrennial plan.
+Annual training
+plan
+1 year
+The overall annual training plan can contain a single or multiple
+macrocycles. It can be subdivided into preparatory, competitive, and
+transitional periods of training.
+Macrocycle
+Several months
+to a year
+It contains preparatory, competitive, and transitional periods of
+training. If it encompasses one year, some authors refer to this as an
+annual plan.
+Mesocycle
+2-6 weeks
+This medium-sized training cycle is sometimes called a block of
+training. It consists of microcycles that are linked together. The most
+common duration is 4 weeks.
+Microcycle
+Several days to 2
+weeks
+This small-sized training cycle is comprised of multiple workouts. It
+can range from several days to 2 weeks in duration; the most
+common duration is 1 week (7 days).
+Training day
+1 day
+One training day can contain multiple sessions. It is designed in the
+context of the microcycle in which it is contained.
+Training session
+Several hours
+It generally consists of several hours of training. If the session has
+>30 min of rest between bouts of training, it should be considered as
+having multiple workouts.
+Adapted by permission from G.G. Haff and E.E. Haff, “Training Integration and Periodization,” in NSCA’s
+Guide to Program Design, 2nd ed., edited for the National Strength and Conditioning Association by M.T.
+Jones (Human Kinetics, 2025), 265. Based on Haff (2021); Issurin (2008); V. Issurin, Building the Modern
+Athlete: Scientific Advancement & Training Innovation (Ultimate Athlete Concepts, 2015).; Y. Verkhoshansky
+and M.C. Siff, Supertraining: Expanded Version, 6th ed. (Verkhoshansky, 2009).
+1592

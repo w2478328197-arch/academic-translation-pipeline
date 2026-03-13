@@ -1,0 +1,47 @@
+Measuring Parameters of Athletic Performance
+Athleticism incorporates many physical abilities, some of which are much more amenable to training
+than others. Such abilities may be called general components of athletic performance—that is,
+abilities that enable effective responses to the various physical demands of a specific sport or
+event. This section focuses on how each component can be tested and highlights relevant issues.
+Maximum Muscular Strength (Low-Speed Strength)
+Maximum muscular strength tests can be split into dynamic or isometric demands; those that
+involve relatively low movement speeds reflect low-speed muscular strength. In this case,
+muscular strength is related to the force a muscle or muscle group can exert in one maximal effort
+while maintaining proper form, and it can be quantified by the maximum weight that can be lifted
+once (the 1-repetition maximum [1RM]) in exercises such as the bench press or back squat, or the
+maximum force that can be exerted at a particular isokinetic velocity (5, 6, 45, 72, 100, 101, 103,
+109, 124). Because 1RM tests do not require expensive equipment and reflect the kind of dynamic
+ability necessary in sport, they are the maximal strength tests of choice for most strength and
+conditioning professionals.
+In general, 1RM tests are administered after the athlete has warmed up by performing a few
+sets of the test exercise with submaximal loads, beginning with a relatively light load. The first
+attempt is usually with approximately 50% of the athlete’s estimated 1RM weight. After the athlete
+has rested enough to feel recovered from the previous attempt (1-5 min, depending on the
+difficulty of the attempt), the strength and conditioning professional increases the weight
+somewhat, based on the ease with which the previous trial was performed. A skilled strength and
+conditioning professional should, within three to five attempts following warm-up, be able to find
+the athlete’s 1RM load to within a few percentage points of the true value.
+While testing the athlete’s 1RM is a time-tested and reliable way to assess maximal strength,
+many strength and conditioning professionals have begun to use isometric tests to more
+comprehensively assess the athlete’s maximal force production capacities (5, 6, 19, 29, 45, 72, 100,
+101, 103, 124). These types of tests are particularly appealing because they are nonfatiguing and
+are often integrated into an athlete’s regular training program (i.e., training is testing). Typically
+administered with the use of a force plate (or pair of force plates) or force cell that is integrated
+into a custom testing device, these tests allow for the generation of a force–time curve that can be
+used to quantify the rate at which force is produced as well as the maximum force exerted against
+an immovable object (e.g., bar) (29, 92). Regardless of the isometric testing device used, these
+tests are performed after a suitable warm-up, often progressing from 50% effort to 90% before
+performing three maximum isometric trials that are performed for 3- to 5-second duration (29, 59).
+Given that strength is highly influenced by body mass, expressing maximum muscular strength
+test results relative to body weight is valuable. Ratio standards can be used to determine relative
+strength (43) by dividing the weight lifted (in a dynamic test) or force produced (in an isometric
+test) by the athlete’s body weight. Relative strength from a 1RM test can be expressed as the total
+weight lifted (lb or kg) divided by body mass (lb or kg). To express the same from an isometric test,
+maximal force exerted in newtons is divided by bodyweight converted into newtons (lb × 4.44, or
+kg × 9.81). Ratio scaling allows comparisons between athletes normalized to body weight.
+However, this simple approach assumes that strength is directly proportional to body mass (43),
+which is not necessarily the case. Therefore, allometric scaling has also been recommended,
+particularly in settings with wide variation in body size and strength. Dividing strength by body
+mass raised to an appropriate power can eliminate the effects of body mass, although debate
+remains regarding the most appropriate scaling exponents (33, 43, 83).
+765

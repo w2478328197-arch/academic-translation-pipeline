@@ -1,0 +1,34 @@
+with a higher total oxygen uptake. Increased metabolic efficiency
+allows for an increase in oxygen uptake, especially at maximal
+exercise.
+Maximal oxygen uptake is the greatest amount of oxygen that
+can be used at the cellular level for the entire body. Maximal oxygen
+uptake has been found to correlate well with the degree of aerobic
+conditioning and is recognized as the most widely accepted measure
+of cardiorespiratory fitness (14). The capacity to use oxygen is
+largely related to the ability of the heart and circulatory system to
+transport oxygen. However, muscular characteristics such as muscle
+fiber type, muscle fiber mitochondrial density, and capillary density in
+muscle tissue also affect maximal oxygen uptake. Resting oxygen
+uptake is estimated at 3.5 mL of oxygen per kilogram of body weight
+per minute (mL · kg−1 · min−1) for an average person; this value is
+defined as 1 metabolic equivalent (MET). Maximal oxygen
+uptake values in normal, healthy individuals generally range from 25
+to 80 mL · kg−1 · min−1, or 7.1 to 22.9 METs, and depend on a
+variety of physiological parameters, including age and conditioning
+level (17).
+Oxygen uptake (V̇ O2) can be calculated with the Fick equation,
+which expresses the relationship of cardiac output, oxygen uptake,
+and arteriovenous oxygen difference:
+V̇ O2 = Q̇  × a-vO2 difference    (1.2)
+where Q̇  is the cardiac output in milliliters per minute and a-vO2
+difference is the arteriovenous oxygen difference (the difference
+in the oxygen content between arterial and venous blood) in
+milliliters of oxygen per 100 mL of blood. Recalling equation 1.1, we
+can calculate oxygen uptake as shown in the following example:
+V̇ O2 = Heart rate × Stroke volume × a-vO2 difference
+V̇ O2 = 72 beats/min × 65 mL blood/beat × 6 mL O2/100 mL blood = 281
+mL O2/min
+To express oxygen uptake in its common unit (i.e., mL · kg−1 ·
+min−1), we would then divide the result by the person’s weight in
+86

@@ -1,0 +1,29 @@
+ninth step) as fast as possible.
+5. The time from third- to ninth-step contact is determined to the nearest 0.01 second using the
+timing system.
+6. Power in watts is calculated as the athlete’s weight (w) in newtons (lb × 4.45 or kg × 9.807)
+times height (h) in meters (inches × 0.0254) from the third step to the ninth step divided by
+the measured time interval (t) in seconds; P (watts) = (w × h) / t.
+7. Repeat the test two more times with a 2- to 3-minute recovery period between each trial.
+Note: Normative data for the Margaria-Kalamen test are presented in table 14.12 near the end of
+the chapter.
+FIGURE 14.13 Margaria-Kalamen stair sprint test.
+Reprinted by permission from E. Fox, R. Bowers, and M. Foss, The Physiological Basis for Exercise and Sport, 5th ed. (Brown & Benchmark, 1993), 675, permission
+conveyed through Copyright Clearance Center, Inc.
+   13  VELOCITY-BASED TESTING (VBT)
+Equipment
+A commercial VBT device and the equipment required to perform the exercise in question (e.g.,
+an inertial measurement unit [IMU], a linear position transducer, a depth-sensing camera
+system, and a computer-vision enabled smartphone application)
+An Olympic-style barbell with weight plates and locking collars; the weight should be
+appropriate for the individual athlete being tested (in this case, a 1RM back squat will be the
+exercise evaluated)
+Personnel
+One tester/recorder
+Procedure
+1. Place the VBT device in a suitable position based on the type of data collection. For example, a
+linear position transducer will be placed under the barbell and tethered to the barbell, whereas
+an IMU sensor will be affixed directly to the barbell.
+2. The exercise selected (e.g., bench press, squat, deadlift) will depend on the needs of the
+athlete, individual sport, and training session being performed. In the case of a back squat,
+793

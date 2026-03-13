@@ -1,0 +1,66 @@
+Classification
+Obesity
+class
+BMIa
+(kg/m2)
+DISEASE RISKb RELATIVE TO NORMAL
+WEIGHT AND WAIST CIRCUMFERENCE
+Men <102 cm (<40
+in)
+Women <88 cm (<35
+in)
+Men >102 cm (>40
+in)
+Women >88 cm (>35
+in)
+Severely
+underweight
+<16.5
+Underweight
+<18.5
+Normal
+18.5-24.9
+Overweight
+25.0-29.9
+Increased
+High
+Obesity
+I
+30.0-34.9
+High
+Very high
+II
+35.0-39.9
+Very high
+Very high
+Extreme obesity
+III
+≥40
+Extremely high
+Extremely high
+Note: Increased waist circumference can also be a marker for increased risk even in persons of normal
+weight.
+aBMI may overestimate fat in athletes and others with muscular builds and underestimate fat in older
+persons and others who have lost muscle. To estimate BMI using kilograms and meters, use this equation:
+body weight (kilograms) / height (meters)2. To estimate BMI using pounds and inches, use this equation:
+body weight (pounds) / height (inches)2 × 703.
+bDisease risk for type 2 diabetes, hypertension, and cardiovascular disease.
+Reprinted from NHLBI Obesity Education Initiative Expert Panel on the Identification, Evaluation, and
+Treatment of Obesity in Adults (1998).
+Rapid Weight Loss
+Though there is no uniform definition in the literature, rapid weight loss generally
+refers to quick weight loss, faster than can be achieved by lowering calorie
+intake and increasing exercise, in a short period of time (38). Athletes may use a
+variety of techniques to cut weight quickly to compete in a desired weight class,
+meet a weight goal set by their coach, or improve performance. Potentially
+dangerous weight loss techniques may include fasting, fad diets, voluntary
+dehydration (diuretics, sauna, water and salt manipulation, wearing multiple
+layers of clothing), excessive spitting, self-induced vomiting, laxative abuse, and
+inappropriate or excessive use of thermogenic aids (38).
+Athletes who attempt to lose too much weight too quickly may lose lean body
+mass, feel fatigued, experience headaches or mood swings, put their training
+and performance in jeopardy, and suffer from several potentially serious side
+effects. These include dehydration, heat illness, muscle cramping, fatigue,
+dizziness, suppressed immune system functioning, hormone imbalances,
+hyperthermia, reduced muscle strength, decreased plasma and blood volume,
+648

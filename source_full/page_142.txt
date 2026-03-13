@@ -1,0 +1,34 @@
+Muscle Length
+At rest, actin and myosin filaments in muscle fibers lie alongside
+each other, allowing for a maximal number of potential crossbridge
+sites (figure 2.12; see chapter 1 for more details). This alignment
+enables the muscle to generate the greatest force at its resting
+length. When the muscle is stretched beyond its resting length,
+fewer actin and myosin filaments align next to each other, reducing
+the number of potential crossbridge sites and, consequently, the
+force the muscle can generate. In this stretched state, a third
+filament, titin, is recognized to play a critical role in force
+development. Titin not only contributes to structural alignment but
+also possesses mechanosensing properties. During eccentric muscle
+actions beyond resting length, the increase in calcium concentration
+in the sarcoplasm causes the spring-like titin to tighten. This
+tightening helps in force production and aligns myosin filaments to
+increase the potential crossbridge sites (23, 24, 61). Under load, titin
+is considered to be a key influencer in trophic signaling, which can
+be a contributor to skeletal muscle hypertrophy (26). Conversely,
+when the muscle contracts too much below its resting length, the
+actin filaments overlap excessively, reducing the number of
+crossbridge sites and thus decreasing force generation capability.
+Joint Angle
+Because all body movements, even those occurring in a straight line,
+take place by means of rotation about a joint or joints, the forces
+that muscles produce must be manifested as torques; recall that a
+higher torque value indicates a greater tendency for the applied
+force to rotate the limb or body part about a joint. Consequently, we
+speak of torque versus joint angle rather than force versus joint
+angle. The amount of torque that can be exerted about a given body
+joint varies throughout the joint’s range of motion, largely because
+of the relationship of force versus muscle length, as well as the ever-
+changing leverage brought about by the dynamic geometry of the
+muscles, tendons, and internal joint structures. This is shown in
+142

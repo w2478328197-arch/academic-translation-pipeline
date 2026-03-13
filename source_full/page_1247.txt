@@ -1,0 +1,39 @@
+Step 6: Volume
+Volume–load relates to the total amount of weight lifted in a training session,
+and a set is a group of repetitions sequentially performed before the athlete
+stops to rest. Repetition-volume is the total number of repetitions performed
+during a workout session, and volume–load is the total number of sets multiplied
+by the number of repetitions per set, then multiplied by the weight lifted per
+repetition. For example, the volume–load for 2 sets of 10 repetitions with 50
+pounds (23 kg) would be expressed as 2 × 10 × 50 pounds or 1,000 pounds
+(454 kg). (If different sets are performed with different amounts of weight, the
+volumes per set are calculated and then added to obtain the total training
+session volume.)
+In running exercise, the common (rep) volume measure is distance. If an
+intensity value is known or measured (e.g., running pace, which relates to
+percent V̇ O2max), total metabolic energy cost (which is proportional to
+mechanical work done) can be calculated. This value is comparable to volume–
+load in resistance exercise. The same concepts are applicable to the number of
+foot or hand contacts (volume) in plyometric exercise (note that the intensity is
+not considered when counting contacts but should be considered carefully by the
+coach), the number of strokes (volume) in swimming or rowing, or the number
+of throws or jumps (volume) for various sport activities.
+Single Versus Multiple Sets
+Single-set training may be appropriate for untrained individuals (50) or during
+the first several months of training (61), but many studies indicate that higher
+volumes are necessary to promote further gains in strength, especially for
+intermediate and advanced resistance-trained athletes (126, 177, 182). For
+example, performing 3 sets of 10 repetitions without going to failure enhances
+strength better than one set to failure in 8 to 12 repetitions (90), although the
+higher training volume with the use of 3 sets is a contributing factor (50, 162).
+Therefore, an athlete who performs multiple sets from the initiation of their
+resistance training program will increase muscular strength faster than with
+single-set training (90). The strength and conditioning professional cannot
+expect, however, that an athlete will be able to successfully complete multiple
+sets with full RM loads at fixed repetition schemes for every exercise in each
+training session. Fatigue will affect the number of repetitions that can be
+performed in later sets (116, 150), which is why a RIR approach may be
+advantageous. It should also be noted that training to failure is not necessary for
+optimal adaptations (36, 63, 137, 191). Refalo and colleagues (132) also
+demonstrated that the closer the proximity to failure, the greater the magnitude
+1247

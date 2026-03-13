@@ -1,0 +1,31 @@
+Insulin-Like Growth Factors and Binding
+Proteins
+IGFs, primarily IGF-1 and IGF-2, are small polypeptides crucial for
+various anabolic processes in the body, including cellular growth,
+development, and metabolism. These growth factors are structurally
+similar to insulin and originate from larger precursor molecules
+modified posttranslationally to become active. IGF-1, the most
+researched, is predominantly synthesized in the liver in response to
+stimulation by 22 kD GH (16, 22, 27, 91). Besides GH, IGF synthesis
+is also influenced by thyroid hormones and testosterone (137, 138,
+139, 140).
+IGFs perform several functions, including enhancing protein
+synthesis, increasing amino acid transport across cell membranes,
+and stimulating growth in tissues such as muscle and bone. In the
+bloodstream, IGFs are mostly bound to proteins, with only about 2%
+in the free (unbound) form; same as for other hormones, the
+binding proteins regulate IGF activity and availability. These binding
+proteins are critical in modulating the growth-promoting actions of
+the IGFs (91). Additionally, IGFs stimulate the secretion of their
+binding proteins within muscle cells, influencing cellular sensitivity to
+IGFs (105). IGF binding proteins (IGFBPs) are a group of proteins
+that regulate the bioavailability and activity of IGFs. There are six
+main types of IGFBPs (IGFBP-1 to IGFBP-6) found in humans, each
+with distinct binding affinities, tissue distributions, and biological
+functions. IGFBPs can inhibit or enhance the action of IGFs by doing
+the following:
+1. Binding IGFs with high affinity, which prevents their interaction
+with IGF receptors and modulates their half-life, transport, and
+tissue localization
+2. Regulating IGF turnover and clearance in the circulation
+263

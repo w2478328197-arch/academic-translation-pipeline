@@ -1,0 +1,23 @@
+In contrast, the abdominal muscles act concentrically and
+eccentrically during the raising and lowering phases of the
+curl-up exercise, respectively.
+FIGURE 2.13 Force–velocity curve for eccentric and concentric actions.
+Reprinted from K. Jorgensen, “Force-Velocity Relationship in Human Elbow Flexors and Extensors,” in Biomechanics A-
+V, edited by P.V. Komi, (University Park Press, 1976), 147. By permission of P.V. Komi.
+Muscle torque varies with joint angular velocity according to the
+type of muscular action (figure 2.13). Tests have shown that during
+isokinetic (constant-speed) concentric exercise by human subjects,
+torque capability declines as angular velocity increases. In contrast,
+during eccentric exercise, as joint angular velocity increases,
+maximal torque capability increases until about 90 degrees per
+second (1.57 rad/s), after which it declines gradually (6). That
+means that the greatest muscle force can be obtained during
+eccentric muscle action. This is demonstrated by athletes who
+employ “cheating” movements when a weight cannot be lifted using
+strict form. For example, an individual who reaches a sticking
+point in the biceps curl exercise due to the limit of concentric elbow
+flexor strength usually leans the torso back, allowing the elbow
+flexors to exert increased force by operating isometrically or
+eccentrically and thereby enabling continued movement of the bar.
+This sticking point is represented by a decrease in acceleration.
+145

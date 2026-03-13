@@ -1,0 +1,10 @@
+Amine Hormone Interactions
+Amine hormones are indeed synthesized from amino acids, including
+those derived from tyrosine (such as epinephrine, norepinephrine,
+and dopamine) and tryptophan (such as serotonin), and primarily
+exert their effects by binding to membrane receptors. These
+hormones typically act through secondary messenger systems,
+similar to polypeptide hormones. For example, epinephrine and
+norepinephrine interact with G protein-coupled receptors to initiate
+signaling cascades involving cAMP or other secondary messengers.
+247

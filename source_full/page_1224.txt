@@ -1,0 +1,48 @@
+kilograms. It is assumed that the athlete provided a maximal effort; if he or she
+had stopped at 9 repetitions but could have performed 1 more, a 10RM would
+not have been achieved. Likewise, if he or she lifted 55 kilograms for 10
+repetitions but could have performed more, the true 10RM was not accurately
+assessed because the athlete possibly could have lifted 60 kilograms for 10
+repetitions.
+Table 18.8 shows the relationship between a submaximal load—calculated as
+a percentage of the 1RM—and the number of repetitions that can be performed
+at that load. By definition, 100% of the 1RM allows the athlete to perform 1
+repetition. As the percentage of the 1RM (i.e., the load lifted) decreases, the
+athlete will be able to successfully complete more repetitions. However, strength
+and conditioning professionals should be cautious because the number of
+repetitions that can be performed at a given load may be specific to the exercise
+as well as the individual (120, 134).
+TABLE 18.8 Percent of the 1RM and Repetitions Allowed
+(%1RM–Repetition Relationship)
+%1RM
+Number of reps allowed
+100
+1
+95
+2
+93
+3
+90
+4
+87
+5
+85
+6
+83
+7
+80
+8
+77
+9
+75
+10
+70
+11
+67
+12
+65
+15
+Note: The number of reps performed at each percentage may be based on individual characteristics as
+well as the exercise being performed (120, 134).
+Data from Hoeger et al. (1987); Hoeger et al. (1990); Mayhew et al. (1992).
+1224

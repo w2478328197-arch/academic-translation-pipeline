@@ -1,0 +1,35 @@
+inferior
+intrafusal fibers
+left bundle branch
+maximal heart rate
+maximal oxygen uptake
+mean arterial pressure
+metabolic equivalent (MET)
+minute ventilation
+mitral valve
+motor neuron
+motor unit
+multiaxial joints
+muscle fiber
+muscle spindle
+myocardium
+myofiber
+myofibril
+myofilament
+myosin
+myosin adenosine triphosphatase
+neuromuscular junction
+oxygen uptake
+parasympathetic nervous system
+perimysium
+physiological dead space
+pleura
+pleural pressure
+power stroke
+proprioceptor
+proximal
+pulmonary valve
+Purkinje fibers
+P-wave
+QRS complex
+100

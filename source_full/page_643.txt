@@ -1,0 +1,40 @@
+The thermic effect of food, also known as diet-induced thermogenesis, is
+the increase in energy expenditure above the RMR that can be measured for
+several hours following a meal. The thermic effect of food includes the energy
+cost of digestion, absorption, metabolism, and storage of food in the body. The
+thermic effect of food accounts for approximately 10% to 15% of total calories
+burned each day (63, 114).
+Many different equations can be used to calculate calorie needs, including the
+Cunningham equation and equations by the Institute of Medicine (IOM), which
+are prediction equations. The various IOM equations take sex, body weight,
+height, age, and physical activity levels into account to predict the estimated
+energy requirement (EER) (138). RMR can then be multiplied by an activity
+factor from 1.2 (sedentary) to 1.9 (heavy physical activity) to predict energy
+requirements (50). However, these equations do not take into account how
+muscle mass affects RMR (90). The Cunningham equation takes fat-free mass
+(FFM) into account to estimate RMR, making it more applicable to athletes (135).
+RMR = 500 + 22 (FFM in kg)
+After using the Cunningham equation to estimate RMR based on FFM, an activity
+factor can be used to estimate total daily energy expenditure. Instead of using a
+basic activity factor, the strength and conditioning professional may choose to
+use metabolic equivalents (MET values), an estimate of caloric expenditure
+during activity. One MET is the energy equivalent of sitting quietly; therefore, the
+greater the intensity of exercise, the higher the MET value (5).
+Another, more laborious method that can be used by very motivated athletes
+is to record dietary intake for a minimum of three consecutive, representative
+days during a period of stable body weight. The individual’s daily energy
+requirement is assumed to equal the average number of calories consumed each
+day. The pitfall of this method is that recording food intake usually alters normal
+eating habits and people do not always accurately record their food intake (55,
+121). Finally, a very simple method for quickly assessing calorie needs is
+presented in table 11.4 (24).
+Weight Gain
+An athlete’s ability to gain weight depends on numerous factors; the ones that
+can be controlled include diet and training. The off-season should be used as a
+time to make dietary changes that focus on weight gain since athletes do not
+have the pressures of competition on their mind.
+If athletes increase their calorie intake dramatically and consistently, they
+could gain more fat than they would like. A general guideline, which should be
+adjusted based on the athlete, is to consume approximately 500 additional
+calories per day in order to gain weight (113). Eating larger portion sizes,
+643

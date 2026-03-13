@@ -1,0 +1,33 @@
+administrations provides a measure of test–retest reliability. Any
+difference between the two sets of scores represents measurement
+error. Another statistic that can be calculated is the typical error of
+measurement (TE), which includes both the equipment error and
+biological variation of athletes (18). The difference between two sets
+of scores can arise from a number of different factors (2):
+Intrasubject (within subjects) variability
+Lack of interrater (between raters) reliability or agreement
+Intrarater (within raters) variability
+Failure of the test itself to provide consistent results
+Reliability is a measure of the degree of consistency or
+repeatability of a test. A test must be reliable to be
+valid, because highly variable results have little
+meaning.
+Intrasubject variability is a lack of consistent performance by
+the person being tested. Interrater reliability, also referred to as
+objectivity or interrater agreement (2), is the degree to which
+different raters agree in their test results over time or on repeated
+occasions; it is a measure of consistency. A clearly defined scoring
+system and competent scorers who are trained and experienced with
+the test are essential to enhance interrater reliability. For example,
+even a test that appears simple, such as timing a 40-yard (37 m)
+sprint with a stopwatch, can exhibit both random and systematic
+error if the timer is not trained and experienced. Sprint times
+obtained using handheld stopwatches are typically shorter than
+those obtained using automatic timers, because raters using
+stopwatches exhibit reaction-time delay when pressing the start
+button in response to the gun but do not delay in pressing the
+button at the finish line because they can see the athlete
+approaching. Interrater reliability is particularly important if different
+scorers administer tests to different subgroups of athletes. A
+subgroup with a relatively lenient scorer will have artificially inflated
+740

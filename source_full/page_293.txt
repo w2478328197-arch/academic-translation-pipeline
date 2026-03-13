@@ -1,0 +1,41 @@
+the neural adaptation is greater, resulting in a lower neural output to
+produce the same submaximal force, even with similar hypertrophy
+to low-load (30% 1RM) resistance training (80a). Such results
+demonstrate the importance of progressive overloading during
+resistance training and how it promotes the activation of an optimal
+amount of muscle tissue to meet force production requirements.
+Other motor unit adaptations include changes in the rate and
+sequence of firing. A positive relationship exists between the
+magnitude of force produced and the rate of motor unit firing; high
+firing rates from the onset of ballistic muscle contraction are
+especially critical to increased rates of force development (3). The
+increase in firing rate (vs. recruitment) appears to depend on muscle
+size and the number of motor units that compose the muscle, such
+that smaller muscles rely more on an increased firing rate to
+enhance force production, whereas larger muscles depend more on
+recruitment (61). Evidence suggests that anaerobic training can play
+a role in enhancing firing rates of recruited motor units (3). For
+example, resistance training may result in a more synchronized
+pattern (i.e., the firing of two or more motor units at a fixed interval)
+of activation during the exertion of large forces, rather than the
+customary asynchronous pattern usually common to motor function
+(149). Although the specific role of motor unit synchronization
+during 
+anaerobic 
+training 
+remains 
+to 
+be 
+fully 
+elucidated,
+synchronization is potentially more critical to the rate of force
+development and less significant concerning the overall level of force
+developed.
+Neuromuscular Junction
+The neuromuscular junction (NMJ) is the interface between the
+nerve and the skeletal muscle fibers, and it represents another
+potential site for neural adaptation following anaerobic training (42,
+43). Because of the difficulty in investigating this structure, most
+studies examining the NMJ have used animal models to demonstrate
+its adaptation to exercise. Deschenes and colleagues (44) examined
+293

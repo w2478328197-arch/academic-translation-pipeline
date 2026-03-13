@@ -1,0 +1,33 @@
+When a motor neuron activates a muscle fiber, a cascade of events
+occur that stimulate the sarcoplasmic reticulum to release calcium
+ions into the myofibrils of the muscle fiber. Secreted calcium ions
+bind with a high affinity to the troponin protein, which exists at
+regular intervals along the actin filament (figure 1.6). This calcium-
+troponin interaction causes a shift in another protein termed
+tropomyosin, which is bound to troponin and spans the length of
+the actin filament. These events expose the myosin binding site on
+actin and enable the myosin head to attach to the actin filament to
+form an actin-myosin crossbridge (4). It is important to understand
+that the amount of force produced by any given muscle is directly
+related to the number of actin-myosin crossbridges formed within
+the muscle fibers of that muscle (4). Thus, activities that require a
+high force output necessitate the activation (or recruitment) of most
+motor neurons and the muscle fibers they innervate to achieve the
+maximal amount of actin-myosin crossbridge formation.
+The number of actin-myosin crossbridges formed within
+the muscle fibers of a given muscle at any instant in
+time dictates the force production of the muscle.
+Contraction Phase
+The contraction phase involves the mechanical movement (or
+pivoting) of the myosin head from the resting phase when the actin-
+myosin crossbridge is formed, which leads to the pulling of the
+associated actin filament to the center of the sarcomere. Critically,
+this mechanical movement is catalyzed from the biochemical energy
+provided by the hydrolysis (or breakdown) of adenosine triphosphate
+(ATP) by the myosin adenosine triphosphatase (ATPase)
+enzyme present on the myosin head. The products of ATP hydrolysis
+include adenosine diphosphate (ADP) and inorganic phosphate (Pi),
+metabolites that also serve critical roles in the contraction process.
+While the different phases of the contraction phase are relatively
+complex, they can be summarized as follows:
+54

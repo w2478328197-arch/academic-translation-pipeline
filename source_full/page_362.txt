@@ -1,0 +1,78 @@
+Maximal oxygen uptake (mL · kg−1
+· min−1) (127, 135, 18, 74)
+36.0
+48.0
+90.6
+72.8
+% type I fibers (3, 24, 59)
+48
+51
+60.8
+60.4-61.8
+FIBER AREA (μM2)
+Type I (35)
+4,947*
+6,284*
+6,485
+6,069
+Type II (35)
+5,460*
+6,378*
+8,342
+5,642
+CAPILLARY DENSITY
+Number/mm2 (3, 63)
+289
+356
+640
+—
+Number/fiber (3)
+1.39
+1.95
+2.15
+—
+SKELETAL MUSCLE ENZYMES
+Citrate synthase (μmol · min−1·
+g−1 wet weight) (162)
+35.9
+45.1
+—
+—
+Lactate dehydrogenase (μmol · g−1
+· min−1) (35, 24)
+843*
+788*
+746
+744
+Succinate dehydrogenase (μmol ·
+g−1 · min−1) (35)
+6.4*
+17.7*
+21.6
+10.0
+Phosphofructokinase (μmol · g−1 ·
+min−1) (52, 53)
+27.13
+58.82
+20.1
+—
+MAXIMAL FIBER SHORTENING VELOCITY (FIBER LENGTHS)
+Type I (61, 157)
+0.99
+1.27
+1.65
+—
+Type II (61, 157)
+3.18
+3.38
+3.72
+—
+*Data are not from a training study; subjects were untrained or “good distance runners.”
+Data compiled by Carwyn Sharp and Kate Baldwin.
+Within 10 to 14 days at a given altitude, heart rate and cardiac
+output begin to return to normal values because of the longer-term
+acclimatization response of increased red blood cell production.
+Thus, with acute exposure to altitude, hyperventilation and
+increased submaximal cardiac output are rapid and relatively
+effective responses to offset the challenges of the reduced partial
+362

@@ -1,0 +1,158 @@
+Percentile*
+Women’s
+volleyball
+Women’s
+basketball
+Women’s
+softball
+Men’s
+basketball
+Men’s
+baseball
+Men’s American
+football
+90
+4.75
+4.65
+4.88
+4.22
+4.25
+4.21
+80
+4.84
+4.82
+4.96
+4.29
+4.36
+4.31
+70
+4.91
+4.86
+5.03
+4.35
+4.41
+4.38
+60
+4.98
+4.94
+5.10
+4.39
+4.46
+4.44
+50
+5.01
+5.06
+5.17
+4.41
+4.50
+4.52
+40
+5.08
+5.10
+5.24
+4.44
+4.55
+4.59
+30
+5.17
+5.14
+5.33
+4.48
+4.61
+4.66
+20
+5.23
+5.23
+5.40
+4.51
+4.69
+4.76
+10
+5.32
+5.36
+5.55
+4.61
+4.76
+4.89
+Mean
+5.03
+5.02
+5.19
+4.41
+4.53
+4.54
+SD
+0.20
+0.26
+0.26
+0.18
+0.23
+0.27
+n
+81
+128
+118
+97
+165
+869
+*Descriptors for percentiles: 90 = well above average; 70 = above average; 50 = average; 30 = below average; 10 = well below
+average
+Data collected using electronic timing devices. SD = standard deviation, n = number of athletes.
+Adapted by permission from J. Hoffman, Norms for Fitness, Performance, and Health (Human Kinetics, 2006), 36-38, 55-58, 113.
+TABLE 14.31 Descriptive Data for the Illinois Test: Boys 14 to 16 Years
+Evaluation
+Limits
+%
+Number of people included in the group
+High
+<15.83 s
+2.28
+0
+Above average
+15.83-16.93 s
+13.59
+4
+Average
+16.94-19.13 s
+68.27
+12
+Below average
+19.14-20.23 s
+13.59
+3
+Low
+>20.23 s
+2.28
+1
+Reprinted by permission from Z. Boyan and V. Batchev, “Investigation on the ‘Agility’ Skill at 14- to 16-Year Old Students by Illinois
+Agility Test,” National Sports Academy ‘Vasil Levski’ (2019): 444. https://doi.org/10.37393/icass2019/82.
+TABLE 14.32 Descriptive Data for the Illinois Test: Boys and Girls 16 to 19
+Years
+Evaluation
+Sex
+Male
+Female
+Excellent
+<15.2 s
+<17.0 s
+Above average
+15.2-16.1 s
+17.0-17.9 s
+Average
+16.2-18.1 s
+18.0-21.7 s
+Below average
+18.2-18.3 s
+21.8-23.0 s
+Low
+>18.3 s
+>23.0 s
+TABLE 14.33 Descriptive Data* for Speed Testing for Various Populations
+Group, sport, or position
+Number of athletes
+Time (s)
+10 m
+20 m
+40 m
+*The values listed are means ± standard deviation. The data should be regarded as only descriptive, not normative.
+849

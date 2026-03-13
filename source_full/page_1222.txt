@@ -1,0 +1,38 @@
+Step 5: Training Load and Repetitions
+Load most simply refers to the amount of weight assigned to an exercise set
+and is often characterized as the most critical aspect of a resistance training
+program (50, 106, 162, 163).
+Terminology Used to Quantify and Qualify
+Mechanical Work
+Mechanical work can be defined as the product of force and displacement
+(sometimes referred to as distance). An athlete can perform (external)
+mechanical work via demands made on the body to generate (internal)
+metabolic energy. Thus, it is important to quantify the amount of mechanical
+work or degree of metabolic demand to plan variation in the training program
+and to avoid the exhaustion phase of Selye’s General Adaptation Syndrome
+associated with overtraining (33, 148).
+A quantity measure for resistance training work is needed. Traditionally, at
+least in the sport of weightlifting, this work is called the load, and one can
+calculate it by multiplying each weight lifted by the number of times it is lifted
+and summing all such values over a training session. Volume–load is a proxy
+for work, because displacement and force production are not measured in
+applied settings. However, volume–load (90) is a better term than just load. This
+quantity is related to mechanical work and the associated metabolic energy
+demands and physiological stress and is distinguished from repetition-volume
+(i.e., the total number of repetitions; see Step 6: Volume for more explanation).
+Volume–load should be considered as system mass volume–load in the
+calculation of resistance training in which the athlete or a mass is moved (e.g.,
+loaded jump squats). For example, an 80-kilogram athlete with a 40-kilogram
+jump squat load for 4 sets of 3 is doing 120 kilograms × 12, or 1,440 kilograms.
+In contrast, when the athlete’s mass is not being lifted (e.g., bench press or
+shoulder press), only the external load should be included in the volume–load
+calculation. Volume–load approaches are also useful in quantifying the nature of
+the total resistance training load, by separating the volume–load from core and
+assistance exercises or delineating between hypertrophy, maximal strength, and
+power training. In this way, the strength and conditioning professional can plan
+or determine not just the total volume–load for the session but also what
+stimulus is achieved primarily from the session.
+The typical calculation of volume–load (i.e., sets × repetitions × load) does
+not account for the distance that external load is traveling. Given that athletes
+possess unique anthropometric characteristics (e.g., height and arm length), the
+1222

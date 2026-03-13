@@ -1,0 +1,44 @@
+Event
+Type I
+Type II
+Downhill or slalom skiing
+High
+High
+Speed skating
+High
+High
+Bobsled
+Low
+High
+Distance cycling
+High
+Low
+Rowing
+High
+High
+The types of motor units recruited for a given activity are
+determined by the physiological demand imposed by that activity
+over a given unit of time (table 1.2). For an activity such as slower
+long-distance running, slow-twitch motor units are predominantly
+engaged in working muscles given that physiological demand is not
+relatively high over time and these motor units possess a heightened
+endurance capacity and resistance to fatigue. Sprints at the end of a
+race that impose a relatively higher physiological demand, however,
+require the additional activation of fast-twitch motor units. If an
+activity requires near-maximal contractions over very short time
+periods, such as those observed with the power clean, most of the
+motor units in the involved muscle(s) are recruited and the fast-
+twitch motor units make more of a significant contribution to the
+effort. Electromyography estimates have indicated that maximal
+voluntary contractions with higher intensity weightlifting typically
+lead to approximately 90% or more activation of available motor
+units in the involved muscle(s) (7). However, some caveats must be
+considered with this estimation. First, the activation of the entire
+motor neuron pool is probably not possible in untrained people (9,
+10, 18). Moreover, although large fast-twitch units may be recruited
+if the effort is substantial, it is probably not possible to activate them
+at a high enough frequency under most circumstances for maximal
+force to be realized. These details aside, it is important to appreciate
+that motor unit activation varies regarding different types of physical
+activity.
+64

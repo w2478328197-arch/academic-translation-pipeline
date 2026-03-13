@@ -1,0 +1,66 @@
+Measure
+Description
+Interpretation
+amount of time. However, an athlete may
+demonstrate slightly longer ground
+contact times at the initial stages of the
+sprint due to acceleration mechanics.
+Step length
+The distance between the toe
+and heel of two consecutive
+footsteps. Example: centimeters
+between the heel of the right
+foot and the heel of the left
+foot.
+Improvements in step length (increases
+in distance covered) may occur through
+improved sprint mechanics or posture
+and ultimately enhanced force output.
+Stride
+length
+The distance between the heel
+in two consecutive steps of the
+same foot. Example: meters
+between the heel of the right
+foot and the heel of the next
+ground contact made by the
+right foot.
+Improvements in stride length (increases
+in distance covered by two successive
+steps) may occur through improved sprint
+mechanics or posture, and ultimately
+enhanced force output.
+Flight time
+The duration of time that an
+athlete is not in contact with the
+ground. This occurs between
+the end of one step and the
+beginning of the subsequent
+step.
+Increases in flight time can be interpreted
+in two ways:
+An athlete is producing higher vertical
+forces over a shorter amount of time,
+resulting in optimal horizontal
+displacement of the athlete’s mass
+down the track.
+An athlete is producing higher forces
+over a longer amount of time, which
+may result in unnecessary vertical
+amplitude of the center of mass.
+Stride angle
+The angle at which the foot
+leaves the track.
+The angle of stride may provide the
+strength and conditioning professional
+with the ability to determine if the athlete
+is producing forces at the right moment,
+which is achieved through proper sprint
+mechanics. Furthermore, data on the
+stride angle elucidate what stage of sprint
+the athlete is attaining (acceleratory,
+transitory, maximum speed) and may
+relate to ground contact times.
+Note: ETG = electronic timing gate; 2D = two-dimensional; 3D = three-dimensional; LiDAR
+= light detection and ranging.
+1472

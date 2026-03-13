@@ -1,0 +1,49 @@
+Exercise
+type
+Examples of
+exercises
+Formulas and examples
+Example 2 (metric approximations): If using a 2 m
+Olympic bar for the half-kneeling landmine press exercise:
+(π × [2 m {bar} + 1 m {user space} + 1 m {safety
+cushion}]2) ÷ 4 ≈ 12.5 m2
+Suspension
+training
+exercises
+Suspension
+row; foot-
+elevated
+knee tuck
+Formula: DEPTH: actual distance of the foot position (the
+farthest foot position if the feet are staggered) from the
+anchor point of the suspension strap (measure out from a
+spot on the ground directly under the anchor point) + the
+athlete’s height + a safety cushion of 3 ft (0.9 m)
+multiplied by WIDTH: a suggested user space of 2 ft (0.6
+m) for a suspension exercise + a double-wide safety
+cushion of 6 ft (1.8 m)
+Example 1 (angled use): If a 6 ft tall athlete is doing an
+angled suspension exercise (e.g., a suspension row) with
+both feet positioned 3 ft from the suspension strap anchor
+point: DEPTH: (3 ft [distance out from under the anchor
+point] + 6 ft [athlete’s height] + 3 ft [perimeter walkway
+safety cushion]) × WIDTH: (2 ft [user space] + 6 ft [safety
+cushion]) = 96 ft2
+Example 2 (vertical or perpendicular use; metric
+approximations): If a 1.6 m tall athlete is doing a prone
+suspension exercise (e.g., a foot-elevated knee tuck) with
+the feet in the straps directly below the anchor point:
+DEPTH: (0 m [distance out from under the anchor point] +
+1.6 m [athlete height] + 1 m [safety cushion]) × WIDTH:
+(1 m [user space] + 2 m [safety cushion]) ≈ 8 m2
+aFor prone and supine ground-based barbell exercises with no bench, use the athlete’s
+height for the DEPTH.
+bFor dumbbell and kettlebell exercises (i.e., standing exercises without a bar), use a user
+space of 2 ft (0.6 m) for the WIDTH.
+Organizing a facility begins with arranging the equipment in a
+safe, functional space. The guidelines in this chapter provide the
+tools necessary to properly arrange the equipment. Taking a blank
+floor plan of the facility and sketching the equipment arrangement
+on the blank plan will help with equipment placement. Figures 25.3
+and 25.4 on pages 812 and 813, respectively, show examples of
+1760

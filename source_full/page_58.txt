@@ -1,0 +1,25 @@
+FIGURE 1.8 Twitch, twitch summation, and tetanus of a motor unit: a = single twitch; b
+= force resulting from summation of two twitches; c = unfused tetanus; d = fused tetanus.
+Muscle Fiber Types
+Skeletal muscles are composed of muscle fibers that have markedly
+different morphological and physiological characteristics (37). These
+differences have led to different classification systems, with the most
+familiar including the terms slow-twitch and fast-twitch muscle
+fibers. Because a motor unit innervates muscle fibers that are
+metabolically and functionally similar to one another, motor units
+have also been historically designated using this nomenclature. A
+fast-twitch motor unit is one that develops force and relaxes rapidly,
+thus exhibiting a shorter twitch time. Slow-twitch motor units, in
+contrast, develop force and relax slowly and have a longer twitch
+time. General differences between these types of motor units can be
+found in figure 1.9.
+Regarding muscle fiber classification, histochemical staining for
+myosin ATPase content was also used for years to classify myofibers
+as type I (slow-twitch), type IIa (fast-twitch), and type IIx (fast-
+twitch). Other methods used for myofiber classification involve single
+fiber isolation techniques to quantify the presence of different
+myosin heavy chain isoforms and immunohistochemical staining for
+myosin heavy chain isoforms (33). The nomenclature for both
+techniques is akin to that associated with the myosin ATPase
+histology methods.
+58

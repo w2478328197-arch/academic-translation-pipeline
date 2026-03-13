@@ -1,0 +1,48 @@
+Monitoring Protocols, Procedures, and Equipment
+When selecting tests for athletic assessment, it is crucial to consider the protocols, procedures, and
+equipment necessary to effectively implement them. Every athletic environment is unique, requiring
+careful consideration to optimize these aspects for specific settings.
+Protocols are systematic plans outlining guidelines to achieve specific objectives. In athlete
+testing, they provide a comprehensive framework within which procedures are developed, setting
+standards for consistency, reliability, and validity (as explained in detail in chapter 13). A monitoring
+protocol represents the overarching strategy for conducting performance assessments, detailing the
+overall approach for tracking an athlete’s physical capacities and specifying test types and
+frequencies throughout the season.
+Using Artificial Intelligence to Analyze Testing Data
+Artificial intelligence (AI) has emerged as a potentially transformative tool in sport. Yet there is still much confusion,
+apprehension, and skepticism about the value of AI. AI is defined as “the ability of a digital computer to perform tasks
+commonly associated with intelligent beings … such as the ability to reason, discover meaning, generalize, or learn from
+past experience” (31). Within AI, machine learning (ML) is the ability of computer machines to learn from and develop
+data without human input or interaction. These approaches offer various advantages to sport, including automating or
+semiautomating data collection, processing data into meaningful insights, identifying crucial information related to health
+and performance, and creating models that support complex decision making (40). Such models can handle a vast number
+of factors and their interactions, which can be too complex for humans to process.
+In the context of athlete testing, AI holds numerous potential applications. Its capacity to process large volumes of data
+is particularly suited to biomechanical analysis, leading to its integration into a number of movement analysis solutions (12).
+Moreover, AI can be used to streamline certain technologies and tests, making jump, speed, and velocity-based gym
+exercise assessments feasible with just a mobile phone (9). By leveraging the quality of modern phone cameras and
+applying AI and ML techniques to analyze the data, such tests become accessible to more strength and conditioning
+professionals. However, it is crucial for practitioners to scrutinize the accuracy and validity of such technologies.
+The use of AI in injury prediction is a widely debated subject (12), yet its potential to enhance existing approaches
+cannot be overlooked. The ability of AI and ML to process vast quantities of data and comprehend complex interactions
+within and across data sets may further such applications. Nevertheless, practitioners must ensure sufficient data collection
+quantity and quality. As the maxim “garbage in, garbage out” implies, the success of any model is contingent on the quality
+of its inputs. AI’s application in analyzing athlete testing data is a burgeoning field that holds promise for the future. Given
+its rapid and constant evolution, it is imperative that practitioners stay informed of developments in this area.
+Procedures are detailed, step-by-step instructions on executing specific tasks within the
+protocol framework. They provide explicit guidance on methods to ensure consistent data
+collection. In physical performance assessments, procedures detail the steps for conducting the
+tests outlined in this chapter, such as vertical jumps, aerobic capacity, or agility performance,
+ensuring standardized methodologies and reliable data.
+Selecting appropriate equipment for athlete physical performance tests can be challenging due to
+the wide range of tools and technologies now available. A decision-making framework for
+implementing technology in sport (159) suggests four reflective questions:
+1. Would the information provided be helpful?
+2. Can you trust the information provided?
+3. Can you integrate, manage, and analyze the data provided effectively?
+4. Can you implement the technology in your practice?
+Selecting suitable technology involves ensuring device validity and reliability, considering
+practicality and ease of use, and confirming relevance to athletes and their specific sport. This
+comprehensive approach ensures that the assessments are accurate, relevant, and actionable,
+supporting athlete performance and reduced risk of injury.
+774

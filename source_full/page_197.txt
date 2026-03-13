@@ -1,0 +1,29 @@
+FIGURE 3.7 The electron transport chain (ETC). CoQ = coenzyme Q; Cyt = cytochrome.
+The hydrogen atoms are passed down the chain (a series of
+electron carriers known as cytochromes) to form a proton
+concentration gradient, which provides the energy for ATP
+production, with oxygen serving as the final electron acceptor
+(resulting in the formation of water). Due to NADH + H+ and FADH2
+entering the ETC at different sites, they differ in the amount of ATP
+produced. One molecule of NADH can produce 2.5 molecules of ATP,
+whereas one molecule of FADH2 can only produce 1.5 molecules of
+ATP (however, traditional biochemistry often cites that NADH yields 3
+ATP and FADH2 yields 2 ATP [34a]). The production of ATP during
+this process is referred to as oxidative phosphorylation. The
+oxidative system, beginning with glycolysis and including the Krebs
+cycle and ETC, results in the production of approximately 32 ATP
+from the degradation of one molecule of blood glucose (12a, 117a).
+However, if the initiation of glycolysis is muscle glycogen, the net
+ATP production is slightly higher at 34 ATP, using the malate-
+aspartate shuttle system or 32 ATP using the glycerol 3-phosphate
+shuttle system because the first ATP consuming step in glycolysis is
+bypassed (12a, 117a). Nevertheless, oxidative phosphorylation
+accounts for over 90% of ATP synthesis compared to substrate-level
+phosphorylation, which demonstrates the capacity of energy transfer
+by the oxidative system. See table 3.1 for a summary of these
+processes.
+TABLE 3.1 Total Energy Yield From the Oxidation of
+One Glucose Molecule
+Process
+Net ATP production
+197

@@ -1,0 +1,33 @@
+Therefore, changes in the firing rate (or discharge rate) of the motor
+unit also affect muscle force generation. With increased motor unit
+firing rates, the muscle fibers are continually activated by
+subsequent action potentials before the fibers have time to
+completely relax following a prior action potential. Therefore,
+increasing motor unit firing rates enhances the summation of
+successive muscle twitches, which is expressed as augmented
+contractile strength (1). Increases in motor unit firing rates
+represent a potential adaptive mechanism that correlates with
+improvements in strength in response to resistance training (166).
+Gains in maximal strength and power of agonist muscles are
+generally associated with an increase in recruitment; an increased
+rate of firing; greater motor unit synchronization of neural discharge
+intra-muscularly, and improved inter-muscle coordination, which is
+the learned motor behavior coordinating the activity of multiple
+muscles in synergy during movement (40a, 148); or a combination
+of all these factors.
+The recruitment or decruitment of motor units in an orderly
+manner is governed by Henneman’s size principle (figure 5.2),
+which represents the relationship between motor unit twitch force
+and recruitment threshold (140). According to this principle, motor
+units are recruited in an ascending order according to their soma
+size. Thus, motor units with small motor neurons have lower
+recruitment thresholds than do motor units with large motor
+neurons. High-threshold motor units are generally quick to fatigue
+but have greater force-producing ability. The recruitment threshold
+of a motor unit also determines its firing rate characteristics, and
+thus there is an inverse association between motor unit recruitment
+threshold and a motor unit’s typical firing rate. This arrangement
+provides several advantages, including the ability to precisely
+gradate force production—particularly at low levels of force
+production—as well as enhanced fatigue resistance (29a, 38a).
+290
