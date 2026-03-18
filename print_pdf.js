@@ -9,10 +9,10 @@ const { PDFDocument, PDFName, PDFDict, PDFArray, PDFNumber, PDFString, PDFHexStr
         args: ['--no-sandbox', '--disable-setuid-sandbox', '--allow-file-access-from-files']
     });
     const page = await browser.newPage();
-    page.setDefaultNavigationTimeout(300000); // 5分钟，应对巨型文件
+    page.setDefaultNavigationTimeout(300000); 
     
     const htmlPath = 'file://' + path.join(__dirname, 'full_book.html');
-    console.log('Loading full book HTML (this may take a minute)...');
+    console.log('Loading full book HTML...');
     
     await page.goto(htmlPath, { waitUntil: 'load' });
     await page.waitForFunction(() => window.rendered === true, { timeout: 300000 });
@@ -21,12 +21,12 @@ const { PDFDocument, PDFName, PDFDict, PDFArray, PDFNumber, PDFString, PDFHexStr
     
     const outputDir = path.join(__dirname, 'output');
     if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir);
-    const tempPdfPath = path.join(outputDir, 'temp_raw.pdf');
     const finalPdfPath = path.join(outputDir, 'CSCS_V23_FIXED.pdf');
 
     console.log('Step 1: Printing high-fidelity PDF with all images...');
+    // 我们直接打印到最终路径，确保图片先出来
     await page.pdf({
-        path: tempPdfPath,
+        path: finalPdfPath,
         format: 'A4',
         printBackground: true,
         displayHeaderFooter: true,
@@ -36,46 +36,48 @@ const { PDFDocument, PDFName, PDFDict, PDFArray, PDFNumber, PDFString, PDFHexStr
         timeout: 0
     });
 
-    console.log('Step 2: Injecting Binary Outlines for Sidebar Navigation...');
-    const pdfBytes = fs.readFileSync(tempPdfPath);
-    const pdfDoc = await PDFDocument.load(pdfBytes);
-    const context = pdfDoc.context;
+    console.log('Step 2: Attempting Sidebar Outline injection...');
+    try {
+        const pdfBytes = fs.readFileSync(finalPdfPath);
+        const pdfDoc = await PDFDocument.load(pdfBytes);
+        const context = pdfDoc.context;
 
-    // 建立 PDF 侧边栏跳转目录
-    const outlinesDict = context.obj({
-        Type: PDFName.of('Outlines'),
-        Count: PDFNumber.of(tocData.length),
-    });
-    const outlinesDictRef = context.register(outlinesDict);
-    pdfDoc.catalog.set(PDFName.of('Outlines'), outlinesDictRef);
-
-    let firstRef, lastRef, prevRef;
-
-    for (let i = 0; i < tocData.length; i++) {
-        const item = tocData[i];
-        const entryDict = context.obj({
-            Title: PDFHexString.fromText(item.text),
-            Parent: outlinesDictRef,
-            Dest: PDFName.of(item.id), // 核心：链接到正文中的同名 Dest
+        const outlinesDict = context.obj({
+            Type: PDFName.of('Outlines'),
+            Count: PDFNumber.of(tocData.length),
         });
-        const entryRef = context.register(entryDict);
+        const outlinesDictRef = context.register(outlinesDict);
+        pdfDoc.catalog.set(PDFName.of('Outlines'), outlinesDictRef);
 
-        if (i === 0) firstRef = entryRef;
-        if (i === tocData.length - 1) lastRef = entryRef;
-        if (prevRef) {
-            context.lookup(prevRef).set(PDFName.of('Next'), entryRef);
-            entryDict.set(PDFName.of('Prev'), prevRef);
+        const entryRefs = [];
+        for (let i = 0; i < tocData.length; i++) {
+            const item = tocData[i];
+            const entryDict = context.obj({
+                Title: PDFHexString.fromText(item.text),
+                Parent: outlinesDictRef,
+                Dest: PDFName.of(item.id),
+            });
+            entryRefs.push(context.register(entryDict));
         }
-        prevRef = entryRef;
+
+        for (let i = 0; i < entryRefs.length; i++) {
+            const entry = context.lookup(entryRefs[i]);
+            if (i > 0) entry.set(PDFName.of('Prev'), entryRefs[i - 1]);
+            if (i < entryRefs.length - 1) entry.set(PDFName.of('Next'), entryRefs[i + 1]);
+        }
+
+        if (entryRefs.length > 0) {
+            outlinesDict.set(PDFName.of('First'), entryRefs[0]);
+            outlinesDict.set(PDFName.of('Last'), entryRefs[entryRefs.length - 1]);
+        }
+
+        const finalPdfBytes = await pdfDoc.save();
+        fs.writeFileSync(finalPdfPath, finalPdfBytes);
+        console.log('✅ 侧边栏目录注入成功！');
+    } catch (e) {
+        console.error('⚠️ 侧边栏注入失败，但正文 PDF 已生成:', e.message);
     }
 
-    outlinesDict.set(PDFName.of('First'), firstRef);
-    outlinesDict.set(PDFName.of('Last'), lastRef);
-
-    const finalPdfBytes = await pdfDoc.save();
-    fs.writeFileSync(finalPdfPath, finalPdfBytes);
-    fs.unlinkSync(tempPdfPath);
-
     await browser.close();
-    console.log('✅ 终极 PDF 已生成！侧边栏跳转与全书插图现已完美。');
+    console.log('✅ 最终 PDF 已就绪！');
 })();
