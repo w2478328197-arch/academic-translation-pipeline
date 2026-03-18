@@ -2,7 +2,7 @@
 const puppeteer = require('puppeteer');
 const path = require('path');
 const fs = require('fs');
-const { PDFDocument, PDFName, PDFDict, PDFArray, PDFNumber, PDFString } = require('pdf-lib');
+const { PDFDocument, PDFName, PDFDict, PDFArray, PDFNumber, PDFString, PDFHexString } = require('pdf-lib');
 
 (async () => {
     const browser = await puppeteer.launch({
@@ -61,7 +61,7 @@ const { PDFDocument, PDFName, PDFDict, PDFArray, PDFNumber, PDFString } = requir
         // 寻找对应的页面索引（简化版：假设目录项按顺序排列）
         // 这里我们先建立基础的跳转到第一页的 Outline，真正的跨页跳转需要 Page Labels
         const entryDict = context.obj({
-            Title: PDFString.of(title),
+            Title: PDFHexString.fromText(title),
             Parent: outlinesDictRef,
             Dest: PDFName.of(item.id), // 与 HTML ID 对应的 Dest (Puppeteer 会保留这些 Dest)
         });
