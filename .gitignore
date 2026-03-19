@@ -7,5 +7,7 @@ page_snapshots/
 source_full_chapter1/
 source_chapter5_fresh/
 full_book.html
+translated/*_SMOKE.md
+translated/*_PIPELINE.md
 temp/
 .venv/

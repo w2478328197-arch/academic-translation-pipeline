@@ -152,7 +152,7 @@ def main() -> int:
     parser.add_argument(
         "--action",
         default="all",
-        choices=["assemble", "audit", "render", "all", "smoke"],
+        choices=["assemble", "audit", "render", "check", "all", "smoke"],
         help="Pipeline action",
     )
     args = parser.parse_args()
@@ -200,13 +200,13 @@ def main() -> int:
         print(f"[smoke] rendered pdf: {smoke_pdf}")
         return 0
 
-    if args.action in ("assemble", "all"):
+    if args.action in ("assemble", "check", "all"):
         used, missing, missing_files = assemble_markdown(translated_dir, manifest_path, assembled_md)
         print(f"[assemble] used={used}, missing={missing}, out={assembled_md}")
         if missing_files:
             print(json.dumps({"assemble_missing_files": missing_files[:20]}, ensure_ascii=False, indent=2))
 
-    if args.action in ("audit", "all"):
+    if args.action in ("audit", "check", "all"):
         manifest_files = read_manifest(manifest_path)
         ok, report = audit_markdown(
             assembled_md,

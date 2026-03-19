@@ -31,6 +31,10 @@
    - 翻译并存入 `translated/`。
    - 在 `manifest.json` 中维护章节顺序。
    - 再次运行 `npm run pipeline`。
+5. **提交前技术核对（不渲染）**:
+   ```bash
+   npm run check
+   ```
 
 ## 新配置入口
 - 统一配置文件: `config/pipeline.json`
@@ -46,6 +50,13 @@
 2. 复制 `config/pipeline.template.json` 为新项目的 `config/pipeline.json`。
 3. 准备 `translated/`、`images/`、`manifest.json`、`manifest_smoke.json`。
 4. 先运行 `npm run smoke` 验链路，再运行 `npm run pipeline`。
+
+## 5分钟迁移指南（通用）
+1. 修改 `config/pipeline.json` 中 `paths` 的输出文件名与目录。
+2. 在 `manifest.json` 中填入新项目的章节文件顺序。
+3. 先运行 `npm run check`，确认无缺文件/缺图错误。
+4. 再运行 `npm run smoke` 验证渲染链路。
+5. 最后运行 `npm run pipeline` 产出正式 PDF。
 
 ## 注意事项
 - **公式**: 采用服务器端 KaTeX 预渲染，严禁在正文中改动 `$ ... $` 内部内容。

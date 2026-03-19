@@ -8,6 +8,7 @@
     "render": "python3 tools/pipeline.py --action render",
     "assemble": "python3 tools/pipeline.py --action assemble",
     "audit": "python3 tools/pipeline.py --action audit",
+    "check": "python3 tools/pipeline.py --action check",
     "smoke": "python3 tools/pipeline.py --action smoke"
   },
   "dependencies": {
