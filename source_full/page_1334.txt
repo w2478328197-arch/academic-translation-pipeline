@@ -1,5 +1,0 @@
-Bounds
-  21   SKIP
-Intensity level: Low
-Direction: Horizontal and vertical
-1334

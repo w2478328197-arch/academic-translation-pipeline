@@ -1,8 +1,0 @@
-FIGURE 3.2 Glycolysis. ADP = adenosine diphosphate; ATP = adenosine triphosphate;
-NAD+, NADH = nicotinamide adenine dinucleotide.
-Glycolysis and the Formation of Lactate
-The formation of lactate from pyruvate is catalyzed by the enzyme
-lactate dehydrogenase. Sometimes, mistakenly, the end result of this
-reaction is said to be the formation of lactic acid. However, due to
-the physiological pH (i.e., near 7) and earlier steps in glycolysis that
-185

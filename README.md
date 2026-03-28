@@ -1,17 +1,16 @@
+# 自动化学术书籍翻译与精排版流水线
 
-# CSCS 第五版 中文翻译工程
-
-这是一个自动化的学术书籍翻译与精排版流水线。
+这是一个自动化的学术书籍翻译与精排版流水线模板。
 
 ## 目录结构
-- `source_full/`: 原始 PDF 提取的 1876 页英文文本。
-- `translated/`: 已完成的高质量中文翻译片段。
-- `images/`: 统一的高清插图库（包含位图与矢量渲染图）。
-- `tools/`: 审计工具 (`auditor.py`) 和 合并脚本。
+- `source_full/`: 存放原始 PDF 提取的英文文本（每页一个 txt 文件）。
+- `translated/`: 存放已完成的高质量中文翻译片段（Markdown 格式）。
+- `images/`: 存放统一的高清插图库（包含位图与矢量渲染图）。
+- `tools/`: 审计工具与合并脚本。
 - `render_master.js`: 核心 HTML 渲染引擎（含公式预处理和插图自动对齐）。
 - `print_pdf.js`: 基于 Puppeteer 的 PDF 打印引擎。
 
-## 回家后的部署步骤
+## 部署步骤
 1. **安装 Node.js**: 确保电脑安装了 Node.js 18+。
 2. **安装依赖**:
    ```bash
@@ -26,37 +25,14 @@
      ```bash
      npm run smoke
      ```
-4. **继续翻译新章节**:
-   - 从 `source_full/` 拷贝对应页码的 txt。
-   - 翻译并存入 `translated/`。
-   - 在 `manifest.json` 中维护章节顺序。
-   - 再次运行 `npm run pipeline`。
-5. **提交前技术核对（不渲染）**:
+4. **提交前技术核对（不渲染）**:
    ```bash
    npm run check
    ```
 
-## 新配置入口
+## 新项目配置入口
 - 统一配置文件: `config/pipeline.json`
 - 通用模板配置: `config/pipeline.template.json`
-- 可配置项:
-  - 输入 manifest
-  - 合稿输出路径
-  - PDF 输出路径
-  - smoke 样本 manifest
-
-## 复用到新项目（技术模板）
-1. 拷贝本仓库骨架到新目录。
-2. 复制 `config/pipeline.template.json` 为新项目的 `config/pipeline.json`。
-3. 准备 `translated/`、`images/`、`manifest.json`、`manifest_smoke.json`。
-4. 先运行 `npm run smoke` 验链路，再运行 `npm run pipeline`。
-
-## 5分钟迁移指南（通用）
-1. 修改 `config/pipeline.json` 中 `paths` 的输出文件名与目录。
-2. 在 `manifest.json` 中填入新项目的章节文件顺序。
-3. 先运行 `npm run check`，确认无缺文件/缺图错误。
-4. 再运行 `npm run smoke` 验证渲染链路。
-5. 最后运行 `npm run pipeline` 产出正式 PDF。
 
 ## 注意事项
 - **公式**: 采用服务器端 KaTeX 预渲染，严禁在正文中改动 `$ ... $` 内部内容。

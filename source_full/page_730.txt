@@ -1,3 +1,0 @@
-terminology, evaluation of test quality, the selection of appropriate
-tests and metrics, and aspects of proper test administration.
-730

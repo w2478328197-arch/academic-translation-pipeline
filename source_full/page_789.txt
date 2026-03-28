@@ -1,6 +1,0 @@
-FIGURE 14.9  (a) Starting position and (b) maximum height of the static vertical jump when measured with a switch mat.
-FIGURE 14.10 Example force–time curve of a static vertical (squat) jump when measured with a force plate testing system.
-Vertical dotted lines divide the typical phases (BP, breaking phase; PP, propulsive phase; FP, flight phase; LP, landing phase).
-Adapted from Z. Anicic, D. Janicijevic, O.M. Knezevic, et al., “Assessment of Countermovement Jump: What Should We Report?,” Life 13, no. 1 (2023): 190. https://doi.org
-/10.3390/life13010190. Distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/).
-789
